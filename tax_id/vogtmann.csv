@@ -1,0 +1,2326 @@
+taxID,Organism
+63,Vitreoscilla filiformis
+159,Brachyspira hyodysenteriae
+162,Treponema phagedenis
+195,Campylobacter coli
+197,Campylobacter jejuni
+198,Campylobacter hyointestinalis
+199,Campylobacter concisus
+200,Campylobacter curvus
+204,Campylobacter showae
+210,Helicobacter pylori
+213,Helicobacter cinaedi
+287,Pseudomonas aeruginosa
+294,Pseudomonas fluorescens
+296,Pseudomonas fragi
+297,Hydrogenophilus thermoluteolus
+300,Pseudomonas mendocina
+301,Pseudomonas oleovorans
+303,Pseudomonas putida
+316,Stutzerimonas stutzeri
+323,Pseudomonas syringae pv. tomato
+340,Xanthomonas campestris pv. campestris
+358,Agrobacterium tumefaciens
+408,Methylorubrum extorquens
+446,Legionella pneumophila
+450,Legionella longbeachae
+470,Acinetobacter baumannii
+471,Acinetobacter calcoaceticus
+483,Neisseria cinerea
+484,Neisseria flavescens
+485,Neisseria gonorrhoeae
+486,Neisseria lactamica
+487,Neisseria meningitidis
+488,Neisseria mucosa
+489,Neisseria polysaccharea
+495,Neisseria elongata
+504,Kingella kingae
+511,Alcaligenes faecalis
+518,Bordetella bronchiseptica
+529,Brucella anthropi
+539,Eikenella corrodens
+545,Citrobacter koseri
+546,Citrobacter freundii
+548,Klebsiella aerogenes
+549,Pantoea agglomerans
+550,Enterobacter cloacae
+553,Pantoea ananatis
+562,Escherichia coli
+563,Shimwellia blattae
+564,Escherichia fergusonii
+565,Atlantibacter hermannii
+569,Hafnia alvei
+571,Klebsiella oxytoca
+573,Klebsiella pneumoniae
+574,Klebsiella pneumoniae subsp. ozaenae
+575,Raoultella planticola
+577,Raoultella terrigena
+582,Morganella morganii
+584,Proteus mirabilis
+585,Proteus vulgaris
+587,Providencia rettgeri
+588,Providencia stuartii
+595,Salmonella enterica subsp. enterica serovar Infantis
+600,Salmonella enterica subsp. enterica serovar Thompson
+605,Salmonella enterica subsp. enterica serovar Pullorum
+611,Salmonella enterica subsp. enterica serovar Heidelberg
+614,Serratia liquefaciens
+615,Serratia marcescens
+618,Serratia odorifera
+621,Shigella boydii
+622,Shigella dysenteriae
+623,Shigella flexneri
+624,Shigella sonnei
+630,Yersinia enterocolitica
+631,Yersinia intermedia
+632,Yersinia pestis
+633,Yersinia pseudotuberculosis
+636,Edwardsiella tarda
+644,Aeromonas hydrophila
+645,Aeromonas salmonicida
+648,Aeromonas caviae
+652,Aeromonas schubertii
+654,Aeromonas veronii
+703,Plesiomonas shigelloides
+714,Aggregatibacter actinomycetemcomitans
+715,Actinobacillus pleuropneumoniae
+716,Actinobacillus suis
+718,Actinobacillus equuli
+720,Actinobacillus lignieresii
+725,Haemophilus influenzae biotype aegyptius
+726,Haemophilus haemolyticus
+727,Haemophilus influenzae
+729,Haemophilus parainfluenzae
+730,[Haemophilus] ducreyi
+731,Histophilus somni
+732,Aggregatibacter aphrophilus
+735,Haemophilus parahaemolyticus
+747,Pasteurella multocida
+749,[Pasteurella] aerogenes
+777,Coxiella burnetii
+813,Chlamydia trachomatis
+817,Bacteroides fragilis
+818,Bacteroides thetaiotaomicron
+820,Bacteroides uniformis
+823,Parabacteroides distasonis
+824,Campylobacter gracilis
+837,Porphyromonas gingivalis
+847,Oxalobacter formigenes
+851,Fusobacterium nucleatum
+853,Faecalibacterium prausnitzii
+856,Fusobacterium varium
+859,Fusobacterium necrophorum
+860,Fusobacterium periodonticum
+861,Fusobacterium ulcerans
+876,Desulfovibrio desulfuricans
+882,Nitratidesulfovibrio vulgaris str. Hildenborough
+883,Nitratidesulfovibrio vulgaris str. 'Miyazaki F'
+897,Desulfococcus multivorans
+901,Desulfovibrio piger
+907,Megasphaera elsdenii
+955,Wolbachia pipientis
+996,Flavobacterium columnare
+1017,Capnocytophaga gingivalis
+1019,Capnocytophaga sputigena
+1245,Leuconostoc mesenteroides
+1246,Leuconostoc lactis
+1247,Oenococcus oeni
+1249,Weissella paramesenteroides
+1252,Leuconostoc carnosum
+1254,Pediococcus acidilactici
+1255,Pediococcus pentosaceus
+1270,Micrococcus luteus
+1280,Staphylococcus aureus
+1281,Staphylococcus carnosus
+1282,Staphylococcus epidermidis
+1283,Staphylococcus haemolyticus
+1284,Staphylococcus hyicus
+1286,Staphylococcus simulans
+1288,Staphylococcus xylosus
+1290,Staphylococcus hominis
+1292,Staphylococcus warneri
+1295,Staphylococcus schleiferi
+1296,Mammaliicoccus sciuri
+1302,Streptococcus gordonii
+1303,Streptococcus oralis
+1304,Streptococcus salivarius
+1305,Streptococcus sanguinis
+1307,Streptococcus suis
+1308,Streptococcus thermophilus
+1309,Streptococcus mutans
+1310,Streptococcus sobrinus
+1311,Streptococcus agalactiae
+1313,Streptococcus pneumoniae
+1314,Streptococcus pyogenes
+1319,Streptococcus sp. 'group B'
+1326,Streptococcus acidominimus
+1328,Streptococcus anginosus
+1329,Streptococcus canis
+1334,Streptococcus dysgalactiae
+1335,Streptococcus equinus
+1338,Streptococcus intermedius
+1340,Streptococcus porcinus
+1343,Streptococcus vestibularis
+1345,Streptococcus ferus
+1348,Streptococcus parauberis
+1349,Streptococcus uberis
+1351,Enterococcus faecalis
+1352,Enterococcus faecium
+1353,Enterococcus gallinarum
+1354,Enterococcus hirae
+1358,Lactococcus lactis
+1359,Lactococcus cremoris
+1360,Lactococcus lactis subsp. lactis
+1363,Lactococcus garvieae
+1366,Lactococcus raffinolactis
+1377,Aerococcus viridans
+1379,Gemella haemolysans
+1390,Bacillus amyloliquefaciens
+1392,Bacillus anthracis
+1396,Bacillus cereus
+1398,Heyndrickxia coagulans
+1402,Bacillus licheniformis
+1405,Bacillus mycoides
+1408,Bacillus pumilus
+1422,Geobacillus stearothermophilus
+1423,Bacillus subtilis
+1428,Bacillus thuringiensis
+1491,Clostridium botulinum
+1492,Clostridium butyricum
+1494,Clostridium cochlearium
+1496,Clostridioides difficile
+1501,Clostridium pasteurianum
+1502,Clostridium perfringens
+1504,Clostridium septicum
+1505,Paraclostridium sordellii
+1509,Clostridium sporogenes
+1511,Acetoanaerobium sticklandii
+1519,Clostridium tyrobutyricum
+1520,Clostridium beijerinckii
+1534,Clostridium kluyveri
+1542,Clostridium novyi
+1548,Clostridium scatologenes
+1561,Clostridium baratii
+1579,Lactobacillus acidophilus
+1580,Levilactobacillus brevis
+1581,Lentilactobacillus buchneri
+1582,Lacticaseibacillus casei
+1583,Weissella confusa
+1585,Lactobacillus delbrueckii subsp. bulgaricus
+1587,Lactobacillus helveticus
+1588,Lentilactobacillus hilgardii
+1589,Lactiplantibacillus pentosus
+1590,Lactiplantibacillus plantarum
+1596,Lactobacillus gasseri
+1597,Lacticaseibacillus paracasei
+1598,Limosilactobacillus reuteri
+1599,Latilactobacillus sakei
+1600,Lactobacillus acetotolerans
+1601,Ligilactobacillus agilis
+1604,Lactobacillus amylovorus
+1605,Ligilactobacillus animalis
+1610,Loigolactobacillus coryniformis
+1613,Limosilactobacillus fermentum
+1622,Ligilactobacillus murinus
+1624,Ligilactobacillus salivarius
+1639,Listeria monocytogenes
+1648,Erysipelothrix rhusiopathiae
+1655,Actinomyces naeslundii
+1656,Actinomyces viscosus
+1659,Actinomyces israelii
+1660,Schaalia odontolytica
+1661,Trueperella pyogenes
+1679,Bifidobacterium longum subsp. longum
+1680,Bifidobacterium adolescentis
+1681,Bifidobacterium bifidum
+1682,Bifidobacterium longum subsp. infantis
+1683,Bifidobacterium angulatum
+1685,Bifidobacterium breve
+1686,Bifidobacterium catenulatum
+1689,Bifidobacterium dentium
+1703,Brevibacterium linens
+1705,Corynebacterium stationis
+1717,Corynebacterium diphtheriae
+1718,Corynebacterium glutamicum
+1719,Corynebacterium pseudotuberculosis
+1736,Eubacterium limosum
+1744,Propionibacterium freudenreichii
+1747,Cutibacterium acnes
+1748,Acidipropionibacterium acidipropionici
+1749,Acidipropionibacterium jensenii
+1750,Arachnia propionica
+1752,Propionibacterium freudenreichii subsp. shermanii
+1795,Mycolicibacterium neoaurum
+1886,Streptomyces albidoflavus
+2047,Rothia dentocariosa
+2094,Mycoplasmopsis arginini
+2098,Metamycoplasma hominis
+2124,Metamycoplasma salivarium
+2173,Methanobrevibacter smithii
+2317,Methanosphaera stadtmanae
+2377,Sporomusa termitida
+2702,Gardnerella vaginalis
+2718,Cardiobacterium hominis
+2748,Carnobacterium divergens
+2751,Carnobacterium maltaromaticum
+2756,Brochothrix thermosphacta
+10372,Human betaherpesvirus 7
+10677,Muvirus mu
+10678,Punavirus P1
+10679,Peduovirus P2
+10680,Enterobacteria phage P4
+10708,Casadabanvirus D3112
+10710,Lambdavirus lambda
+10713,Enterobacteria phage phi80
+10730,Escherichia phage 933W
+10742,Shamshuipovirus HK022
+10761,Lederbergvirus Sf6
+12390,Lactococcus phage phiLC3
+12407,Eganvirus PsP3
+12417,Lactobacillus phage phiadh
+28025,Bifidobacterium animalis
+28026,Bifidobacterium pseudocatenulatum
+28028,Corynebacterium flavescens
+28031,Lysinibacillus fusiformis
+28037,Streptococcus mitis
+28038,Latilactobacillus curvatus
+28108,Alteromonas macleodii
+28113,Bacteroides heparinolyticus
+28116,Bacteroides ovatus
+28118,Odoribacter splanchnicus
+28119,Bacteroides zoogleoformans
+28129,Prevotella denticola
+28131,Prevotella intermedia
+28132,Prevotella melaninogenica
+28135,Segatella oris
+28141,Cronobacter sakazakii
+28147,Salmonella enterica subsp. enterica serovar Oranienburg
+28150,Salmonella enterica subsp. enterica serovar Senftenberg
+28188,Capnocytophaga canimorsus
+28197,Aliarcobacter butzleri
+28251,Ornithobacterium rhinotracheale
+28449,Neisseria subflava
+28901,Salmonella enterica
+29343,[Clostridium] cellulosi
+29379,Staphylococcus auricularis
+29385,Staphylococcus saprophyticus
+29391,Gemella morbillorum
+29394,Dolosigranulum pigrum
+29397,Lactobacillus delbrueckii subsp. lactis
+29429,Methylorubrum zatmanii
+29466,Veillonella parvula
+29471,Pectobacterium atrosepticum
+29474,Salmonella enterica subsp. enterica serovar California
+29484,Yersinia frederiksenii
+29485,Yersinia rohdei
+29486,Yersinia ruckeri
+29494,Vibrio furnissii
+29553,Mycoplasmopsis bovirhinis
+31532,Skunavirus sk1
+31537,Ceduovirus c2
+31754,Lactococcus phage BK5-T
+31964,Clavibacter sepedonicus
+32002,Achromobacter denitrificans
+32020,Campylobacter fetus subsp. venerealis
+32022,Campylobacter jejuni subsp. jejuni
+33010,Cutibacterium avidum
+33025,Phascolarctobacterium faecium
+33033,Parvimonas micra
+33035,Blautia producta
+33040,Streptococcus milleri
+33069,Pseudomonas viridiflava
+33905,Bifidobacterium thermophilum
+33936,Aeribacillus pallidus
+33945,Enterococcus avium
+33959,Lactobacillus johnsonii
+33964,Leuconostoc citreum
+33966,Leuconostoc mesenteroides subsp. dextranicum
+33967,Leuconostoc mesenteroides subsp. mesenteroides
+33968,Leuconostoc pseudomesenteroides
+34038,Rahnella aquatilis
+34062,Moraxella osloensis
+34085,Riemerella anatipestifer
+34105,Streptobacillus moniliformis
+35241,Lactococcus phage Tuc2009
+35345,Lactococcus phage TP901-1
+35703,Citrobacter amalonaticus
+35755,Corynebacterium kutscheri
+35760,Bifidobacterium choerinum
+35841,Caldibacillus thermoamylovorans
+36339,Enterobacteria phage RB68
+36745,Clostridium saccharoperbutylacetonicum
+36805,Microbacterium aurum
+36809,Mycobacteroides abscessus
+36855,Brucella canis
+36874,Porphyromonas cangingivalis
+37482,Laceyella sacchari
+37554,Byrnievirus HK97
+37734,Enterococcus casseliflavus
+38289,Corynebacterium jeikeium
+38313,Shewanella algae
+39103,Lactobacillus phage PL-1
+39488,Anaerobutyricum hallii
+39778,Veillonella dispar
+39950,Dialister pneumosintes
+40041,Streptococcus equi subsp. zooepidemicus
+40214,Acinetobacter johnsonii
+40215,Acinetobacter junii
+40216,Acinetobacter radioresistens
+40324,Stenotrophomonas maltophilia
+41514,"Salmonella enterica subsp. arizonae serovar 62:z4,z23:-"
+41977,Parazoarcus communis
+42897,Shigella flexneri 2a
+43675,Rothia mucilaginosa
+43685,Lactococcus phage r1t
+43768,Corynebacterium matruchotii
+43770,Corynebacterium striatum
+43990,Corynebacterium segmentosum
+44008,Enterococcus cecorum
+44139,Thauera aromatica K172
+44283,Pasteurella multocida subsp. multocida
+44688,Lactococcus lactis subsp. lactis bv. diacetylactis
+44742,Desulfovibrio fairfieldensis
+45065,Legionella geestiana
+45243,Capnocytophaga haemolytica
+45406,Tequatrovirus RB32
+45634,Streptococcus cristatus
+45972,Staphylococcus pasteuri
+46256,Weissella hellenica
+46626,Salmonella enterica subsp. enterica serovar Give
+46867,Clostridium chauvoei
+47671,Lautropia mirabilis
+47678,Bacteroides caccae
+47714,Lacticaseibacillus paracasei subsp. paracasei
+47715,Lacticaseibacillus rhamnosus
+47770,Lactobacillus crispatus
+47878,Pseudomonas azotoformans
+47880,Pseudomonas fulva
+47883,Pseudomonas synxantha
+47884,Pseudomonas taetrolens
+47917,Serratia fonticola
+47951,Vibrio cyclitrophicus
+48296,Acinetobacter pittii
+48409,Salmonella enterica subsp. enterica serovar Virchow
+51101,Brevibacillus agri
+51161,Actinobacillus delphinicola
+51369,Lactobacillus phage A2
+51515,Dehalobacterium formicoaceticum
+51663,Pediococcus damnosus
+51665,Aerococcus urinaeequi
+51669,Tetragenococcus halophilus
+52242,Lactobacillus gallinarum
+52773,Schaalia meyeri
+52774,Actinomyces slackii
+53345,Enterococcus durans
+53346,Enterococcus mundtii
+53354,Streptococcus gallolyticus subsp. gallolyticus
+53408,Pseudomonas citronellolis
+53442,Eubacterium callanderi
+53444,Fructilactobacillus lindneri
+54005,Peptoniphilus harei
+54006,Peptoniphilus ivorii
+54291,Raoultella ornithinolytica
+55211,Erwinia persicina
+55601,Vibrio anguillarum
+55884,Enterobacteria phage SfV
+57320,Pseudodesulfovibrio profundus
+57706,Citrobacter braakii
+57743,Salmonella enterica subsp. enterica serovar Weltevreden
+58095,Salmonella enterica subsp. enterica serovar Agona
+58096,Salmonella enterica subsp. enterica serovar Bareilly
+58100,Salmonella enterica subsp. houtenae serovar Houten
+58712,Salmonella enterica subsp. enterica serovar Anatum
+59201,Salmonella enterica subsp. enterica
+59202,Salmonella enterica subsp. salamae
+59203,Salmonella enterica subsp. arizonae
+59204,Salmonella enterica subsp. diarizonae
+59205,Salmonella enterica subsp. houtenae
+59814,Pantoea dispersa
+60520,Lactiplantibacillus paraplantarum
+61015,Staphylococcus succinus
+61435,Dehalococcoides mccartyi
+61635,Paracholeplasma brassicae
+61645,Enterobacter asburiae
+61646,Lelliottia amnigena
+61647,Pluralibacter gergoviae
+61648,Kluyvera intermedia
+61651,Serratia ficaria
+61652,Serratia rubidaea
+62322,Shewanella baltica
+63118,Skunavirus bIL170
+64186,Moineauvirus Sfi21
+65058,Corynebacterium ulcerans
+66284,Shigella phage SfII
+66692,Shouchella clausii KSM-K16
+66712,Propionibacterium freudenreichii subsp. freudenreichii
+67780,Edwardsiella ictaluri
+67824,Citrobacter farmeri
+67827,Citrobacter werkmanii
+69218,Enterobacter cancerogenus
+69220,Lelliottia nimipressuralis
+69328,Pseudomonas sp. VLB120
+69966,Macrococcoides caseolyticum
+70803,Salmonella enterica subsp. enterica serovar Minnesota
+71421,Haemophilus influenzae Rd KW20
+72000,Kocuria rhizophila
+72407,Klebsiella pneumoniae subsp. pneumoniae
+72638,Moineauvirus Sfi19
+73422,Streptococcus phage TP-J34
+74426,Collinsella aerofaciens
+75588,Pseudomonas libanensis
+75658,Campylobacter lanienae
+75985,Mannheimia haemolytica
+76123,Hoylesella enoeca
+76258,Vibrio rumoiensis
+76758,Pseudomonas orientalis
+76761,Pseudomonas veronii
+76832,Myroides odoratimimus
+76853,Solibacillus silvestris
+76856,Fusobacterium nucleatum subsp. nucleatum
+76857,Fusobacterium polymorphum
+76859,Fusobacterium animalis
+78327,Pseudomonas mosselii
+78344,Bifidobacterium pullorum subsp. gallinarum
+78535,Streptococcus viridans
+78541,Brussowvirus Sfi11
+79604,Denitrobacterium detoxificans
+79880,Shouchella clausii
+79881,Alkalicoccobacillus gibsonii
+82348,Streptococcus pluranimalium
+82380,Microbacterium oxydans
+82688,Liquorilactobacillus nagelii
+82983,Obesumbacterium proteus
+82987,Tatumella ptyseos
+82996,Serratia plymuthica
+83129,Skunavirus P008
+83333,Escherichia coli K-12
+83334,Escherichia coli O157:H7
+83406,gamma proteobacterium HdN1
+83617,Stenotrophomonas nitritireducens
+83655,Leclercia adecarboxylata
+83683,Lactobacillus amylolyticus
+83684,Lactobacillus delbrueckii subsp. delbrueckii
+84032,Pseudoclostridium thermosuccinogenes
+84110,Slackia heliotrinireducens
+84112,Eggerthella lenta
+85404,Mannheimia varigena
+85581,Photobacterium damselae subsp. damselae
+85698,Achromobacter xylosoxidans
+86665,Halalkalibacterium halodurans
+87541,Aerococcus christensenii
+87883,Burkholderia multivorans
+88719,Neisseria elongata subsp. glycolytica
+89152,Peptacetobacter hiranonis
+90105,Salmonella enterica subsp. enterica serovar Saintpaul
+90370,Salmonella enterica subsp. enterica serovar Typhi
+90371,Salmonella enterica subsp. enterica serovar Typhimurium
+90410,Moineauvirus DT1
+93218,Pandoraea apista
+94122,Shewanella sp. ANA-3
+96344,Cupriavidus oxalaticus
+97081,Enterobacteria phage VT2-Sakai
+98360,Salmonella enterica subsp. enterica serovar Dublin
+99179,Bacteroides phage B40-8
+99822,Streptococcus dysgalactiae subsp. dysgalactiae
+102684,Streptococcus infantarius
+103216,Peduovirus Wphi
+103796,Pseudomonas syringae pv. actinidiae
+103855,Bordetella hinzii
+104336,Microbacterium foliorum
+105219,Ralstonia mannitolilytica
+106649,Acinetobacter guillouiae
+106654,Acinetobacter nosocomialis
+108619,Salmonella enterica subsp. enterica serovar Newport
+108980,Acinetobacter ursingii
+108981,Acinetobacter schindleri
+109328,Leptotrichia trevisanii
+109790,Lactobacillus jensenii
+111015,Actinomyces radicidentis
+112023,Moineauvirus mv7201
+113107,Streptococcus australis
+114090,Pediococcus inopinatus
+114416,Lactococcus phage ul36
+114527,Mogibacterium diversum
+119219,Cupriavidus metallidurans
+119602,Streptococcus dysgalactiae subsp. equisimilis
+119912,Salmonella enterica subsp. enterica serovar Choleraesuis
+122587,Neisseria meningitidis Z2491
+126385,Providencia alcalifaciens
+128780,Stenotrophomonas acidaminiphila
+130478,Triavirus SLT
+133448,Citrobacter youngae
+134047,Salmonella enterica subsp. enterica serovar Bredeney
+134821,Ureaplasma parvum
+135461,Bacillus subtilis subsp. subtilis
+136609,Leuconostoc kimchii
+136857,Corynebacterium testudinoris
+137545,Serratia quinivorans
+137591,Weissella cibaria
+143221,Salmonella enterica subsp. enterica serovar Tennessee
+143387,Fusobacterium necrophorum subsp. funduliforme
+146269,Lactobacillus phage Lc-Nu
+146827,Corynebacterium simulans
+147645,Paracoccus yeei
+148942,Streptococcus equi subsp. equi
+149016,Streptococcus urinalis
+149385,Salmonella enterica subsp. enterica serovar Hadar
+149387,Salmonella enterica subsp. enterica serovar Brandenburg
+149388,Salmonella enterica subsp. enterica serovar Mikawasima
+149539,Salmonella enterica subsp. enterica serovar Enteritidis
+150052,Yersinia enterocolitica subsp. enterocolitica
+150053,Yersinia enterocolitica subsp. palearctica
+150055,Streptococcus lutetiensis
+151534,Lactococcus phage bIL311
+151535,Lactococcus phage bIL285
+151536,Lactococcus phage bIL286
+151537,Lactococcus phage bIL309
+151538,Lactococcus phage bIL310
+151539,Lactococcus phage bIL312
+152331,Lentilactobacillus parabuchneri
+155148,Enterobacteria phage HK620
+155615,Fusobacterium vincentii
+155866,Weissella soli
+156978,Corynebacterium imitans
+157687,Leptotrichia wadei
+157688,Leptotrichia hofstadii
+157691,Leptotrichia shahii
+157692,Pseudoleptotrichia goodfellowii
+158822,Cedecea neteri
+158823,Cedecea lapagei
+158836,Enterobacter hormaechei
+158847,Megamonas hypermegale
+158850,Providencia rustigianii
+160453,Enterococcus gilvus
+160491,Streptococcus pyogenes str. Manfredo
+162426,Microbacterium hominis
+165096,Weissella koreensis
+168807,Escherichia coli O127:H6
+168927,Escherichia coli O111:H-
+169679,Clostridium saccharobutylicum
+170187,Streptococcus pneumoniae TIGR4
+172042,Rothia aeria
+173443,Lederbergvirus ST64T
+176279,Staphylococcus epidermidis RP62A
+176292,Secundilactobacillus malefermentans
+179997,Salmonella enterica subsp. enterica serovar Havana
+180282,Delftia tsuruhatensis
+180434,Morganella morganii subsp. morganii
+180957,Pectobacterium brasiliense
+182773,Clostridium isatidis
+185008,Butyrivibrio hungatei
+186103,Streptococcus pyogenes MGAS8232
+186152,Triavirus tv12
+186153,Peeveelvirus pv13
+187101,Sneathia vaginalis
+187452,Pediococcus claussenii
+189423,Streptococcus pneumoniae 670-6B
+189425,Paenibacillus graminis
+189834,Actinobacillus porcitonsillarum
+190304,Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+190485,Xanthomonas campestris pv. campestris str. ATCC 33913
+190721,Ralstonia insidiosa
+192953,Salmonella enterica subsp. enterica serovar Stanley
+192954,Salmonella enterica subsp. enterica serovar Mbandaka
+192955,Salmonella enterica subsp. enterica serovar Kentucky
+194948,Escherichia Stx1 converting phage
+194949,Escherichia phage Stx2 II
+195102,Clostridium perfringens str. 13
+195103,Clostridium perfringens ATCC 13124
+196023,Aeromonas hydrophila subsp. hydrophila
+196024,Aeromonas dhakensis
+197575,Haemophilus aegyptius
+197614,Streptococcus pasteurianus
+198110,Pseudomonas phage 201phi2-1
+198620,Pseudomonas koreensis
+198628,Dickeya dadantii 3937
+199310,Escherichia coli CFT073
+200450,Pseudomonas trivialis
+201847,Lactococcus phage 4268
+203119,Acetivibrio thermocellus ATCC 27405
+203120,Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293
+203122,Saccharophagus degradans 2-40
+203267,Tropheryma whipplei str. Twist
+203275,Tannerella forsythia 92A2
+204042,Dickeya zeae
+204773,Herminiimonas arsenicoxydans
+205913,Bifidobacterium longum DJO10A
+205914,Histophilus somni 129PT
+205918,Pseudomonas syringae pv. syringae B728a
+205921,Streptococcus agalactiae A909
+206506,Kerstersia gyiorum
+206672,Bifidobacterium longum NCC2705
+207559,Oleidesulfovibrio alaskensis G20
+208223,Kosakonia cowanii
+208224,Enterobacter kobei
+208435,Streptococcus agalactiae 2603V/R
+208479,Enterocloster bolteae
+208596,Carnobacterium sp. 17-4
+208962,Escherichia albertii
+209261,Salmonella enterica subsp. enterica serovar Typhi str. Ty2
+210007,Streptococcus mutans UA159
+211110,Streptococcus agalactiae NEM316
+211968,Salmonella enterica subsp. enterica serovar Albany
+213769,Skunavirus sv712
+213775,Lactococcus virus jj50
+214473,Staphylococcus nepalensis
+215167,Triavirus tv3a
+216592,Escherichia coli 042
+216595,Pseudomonas fluorescens SBW25
+216816,Bifidobacterium longum
+218493,Salmonella bongori NCTC 12419
+218495,Streptococcus uberis 0140J
+218496,Tropheryma whipplei TW08/27
+219572,Pseudomonas antarctica
+220341,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+221027,Treponema putidum
+221029,Enterobacteria phage ST104
+222523,Bacillus cereus ATCC 10987
+223967,Methylorubrum populi
+224729,Salmonella enterica subsp. enterica serovar Java
+225992,Comamonas kerstersii
+226185,Enterococcus faecalis V583
+226186,Bacteroides thetaiotaomicron VPI-5482
+227940,Peduovirus L413C
+228400,Histophilus somni 2336
+228899,Peribacillus asahii
+230361,Methanobrevibacter millerae
+232721,Acidovorax sp. JS42
+234621,Rhodococcus erythropolis PR4
+236753,Fastidiosipila sanguinis
+237258,Cloacibacterium normanense
+239935,Akkermansia muciniphila
+240427,Secundilactobacillus paracollinoides
+242619,Porphyromonas gingivalis W83
+243164,Dehalococcoides mccartyi 195
+243275,Treponema denticola ATCC 35405
+243899,endosymbiont 'TC1' of Trimyema compressum
+244319,Escherichia coli O26:H11
+244366,Klebsiella variicola
+244566,Pseudomonas lurida
+246194,Carboxydothermus hydrogenoformans Z-2901
+246195,Dichelobacter nodosus VCS1703A
+246198,Prevotella intermedia 17
+246201,Streptococcus mitis NCTC 12261
+246432,Staphylococcus equorum
+246787,Bacteroides cellulosilyticus
+248315,Veillonella rodentium
+249188,Haemophilus pittmaniae
+249265,Lactobacillus delbrueckii subsp. indicus
+251221,Gloeobacter violaceus PCC 7421
+253237,Pseudomonas sp. phDV1
+253239,Ethanoligenens harbinense
+254252,Lactococcus virus P2
+255248,Leuconostoc garlicum
+257314,Lactobacillus johnsonii NCC 533
+259536,Psychrobacter arcticus 273-4
+259901,Biseptimavirus bv77
+260678,Salmonella enterica subsp. enterica serovar Goldcoast
+262727,Haemophilus influenzae R2846
+262728,Haemophilus influenzae R2866
+264198,Cupriavidus pinatubonensis JMP134
+264199,Streptococcus thermophilus LMG 18311
+264731,Xylanibacter ruminicola 23
+267363,Levilactobacillus zymae
+267747,Cutibacterium acnes KPA171202
+269673,Sporolactobacillus terrae
+269798,Cytophaga hutchinsonii ATCC 33406
+271881,Lactiplantibacillus argentoratensis
+272556,Aggregatibacter actinomycetemcomitans HK1651
+272558,Halalkalibacterium halodurans C-125
+272559,Bacteroides fragilis NCTC 9343
+272563,Clostridioides difficile 630
+272622,Lactococcus cremoris subsp. cremoris SK11
+272626,Listeria innocua Clip11262
+272630,Methylorubrum extorquens AM1
+273036,Staphylococcus aureus RF122
+273384,Brevibacterium aurantiacum
+278137,Mycolicibacterium gilvum Spyr1
+278197,Pediococcus pentosaceus ATCC 25745
+279826,Mesobacillus foraminis
+281310,Haemophilus influenzae 86-028NP
+283686,Kosakonia radicincitans
+283734,Staphylococcus pseudintermedius
+286636,Streptococcus pyogenes MGAS10394
+286783,Salmonella enterica subsp. enterica serovar Indiana
+287412,Skunavirus Sl4
+288681,Bacillus cereus E33L
+290335,Tetragenococcus koreensis
+290338,Citrobacter koseri ATCC BAA-895
+290339,Cronobacter sakazakii ATCC BAA-894
+290847,Helicobacter pylori 51
+292800,Flavonifractor plautii
+293387,Bacillus altitudinis
+293389,Bacillus aerophilus
+293826,Alkaliphilus metalliredigens QYMF
+295405,Bacteroides fragilis YCH46
+296842,Solidesulfovibrio carbinolicus
+297352,Lactococcus piscium MKFS47
+299766,Enterobacter hormaechei subsp. steigerwaltii
+299767,Enterobacter ludwigii
+299768,Streptococcus thermophilus CNRZ1066
+300019,Microbacterium paludicola
+300267,Shigella dysenteriae Sd197
+300268,Shigella boydii Sb227
+301102,Enterobacter hormaechei subsp. oharae
+301105,Enterobacter hormaechei subsp. hormaechei
+301301,Roseburia hominis
+304207,Schleiferilactobacillus harbinensis
+307502,Wolbachia endosymbiont of Drosophila ananassae
+312306,Pseudomonas entomophila
+314315,Latilactobacillus sakei subsp. sakei 23K
+314565,Xanthomonas campestris pv. campestris str. 8004
+315405,Streptococcus gallolyticus
+316273,Xanthomonas euvesicatoria pv. vesicatoria str. 85-10
+316401,Escherichia coli ETEC H10407
+316435,Escherichia coli Nissle 1917
+317013,Xanthomonas phaseoli pv. phaseoli
+320831,Staphylococcus phage PT1028
+320839,Triavirus tv47
+320842,Phietavirus pv96
+320845,Phietavirus pv55
+320847,Phietavirus pv52a
+321314,Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67
+321846,Pseudomonas simiae
+321956,Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365
+321967,Lacticaseibacillus paracasei ATCC 334
+321983,Pseudoduganella albidiflava
+322159,Streptococcus thermophilus LMD-9
+324831,Lactobacillus gasseri ATCC 33323 = JCM 1131
+326425,Lactobacillus helveticus CNRZ32
+326426,Bifidobacterium breve UCC2003
+327575,Capnocytophaga leadbetteri
+329854,Bacteroides intestinalis
+329864,Salmonella phage SE1 (in:P22virus)
+331111,Escherichia coli O139:H28 str. E24377A
+331112,Escherichia coli HS
+333760,Human papillomavirus 16
+333849,Enterococcus faecium DO
+334390,Limosilactobacillus fermentum IFO 3956
+334413,Finegoldia magna ATCC 29328
+334542,Rhodococcus qingshengii
+335541,Syntrophomonas wolfei subsp. wolfei str. Goettingen G311
+335543,Syntrophobacter fumaroxidans MPOB
+337191,Gordonia sp. KTR9
+337330,Lactiplantibacillus plantarum subsp. plantarum
+339860,Methanosphaera stadtmanae DSM 3091
+340146,Exiguobacterium mexicanum
+340184,Escherichia coli B7A
+340188,Salmonella enterica subsp. enterica serovar Cerro
+340189,Salmonella enterica subsp. enterica serovar Manhattan
+342616,Streptococcus agalactiae COH1
+343516,Escherichia phage phiV10
+344609,Shigella boydii CDC 3083-94
+345219,Heyndrickxia coagulans 36D1
+347253,Streptococcus salivarius JIM8777
+347256,Metamycoplasma hominis ATCC 23114
+347324,Pseudomonas phage F10
+347495,Bacillus cereus F837/76
+348058,Salmonella phage epsilon34
+349161,Desulforamulus reducens MI-1
+349519,Leuconostoc citreum KM20
+349741,Akkermansia muciniphila ATCC BAA-835
+353496,Lactobacillus delbrueckii subsp. bulgaricus 2038
+354242,Campylobacter jejuni subsp. jejuni 81-176
+357276,Phocaeicola dorei
+357809,Lachnoclostridium phytofermentans ISDg
+358220,Acidovorax sp. KKS102
+360104,Campylobacter concisus 13826
+360105,Campylobacter curvus 525.92
+360107,Campylobacter hominis ATCC BAA-381
+361101,Streptococcus pseudoporcinus
+362663,Escherichia coli 536
+362948,Ligilactobacillus salivarius UCC118
+362976,Haloquadratum walsbyi DSM 16790
+363253,Lawsonia intracellularis PHE/MN1-00
+363555,Lactobacillus phage KC5a
+364106,Escherichia coli UTI89
+365659,Streptococcus mitis B6
+366649,Xanthomonas citri pv. fuscans
+367737,Aliarcobacter butzleri RM4018
+367928,Bifidobacterium adolescentis ATCC 15703
+370552,Streptococcus pyogenes MGAS10270
+370554,Streptococcus pyogenes MGAS10750
+371142,Sphingobacterium daejeonense
+371601,Bacteroides xylanisolvens
+373384,Shigella flexneri 5 str. 8401
+374833,Neisseria meningitidis 053442
+374923,Shigella flexneri 1a
+374930,Haemophilus influenzae PittEE
+375175,Loigolactobacillus backii
+375286,Janthinobacterium sp. Marseille
+376725,Escherichia coli O103:H2
+378753,Kocuria rhizophila DC2201
+379329,Stx2-converting phage 86
+379731,Stutzerimonas stutzeri A1501
+380703,Aeromonas hydrophila subsp. hydrophila ATCC 7966
+381754,Pseudomonas aeruginosa PA7
+381764,Fervidobacterium nodosum Rt17-B1
+382245,Aeromonas salmonicida subsp. salmonicida A449
+387344,Levilactobacillus brevis ATCC 367
+387909,Staphylococcus phage phiNM3
+388919,Streptococcus sanguinis SK36
+389469,Casadabanvirus DMS3
+390333,Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002
+391774,Nitratidesulfovibrio vulgaris DP4
+391904,Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088
+391936,Isoalcanivorax pacificus W11-5
+392416,Companilactobacillus crustorum
+393921,Porphyromonas crevioricanis
+394221,Maricaulis maris MCS10
+394503,Ruminiclostridium cellulolyticum H10
+394958,Clostridium taeniosporum
+396359,Clostridium phage phiSM101
+396513,Staphylococcus carnosus subsp. carnosus TM300
+398527,Paraburkholderia phytofirmans PsJN
+399726,Thermoanaerobacter sp. X514
+399739,Pseudomonas mendocina ymp
+399741,Serratia proteamaculans 568
+399742,Enterobacter sp. 638
+399804,Shewanella putrefaciens 200
+400065,Streptococcus merionis
+401471,Undibacterium parvum
+401473,Bifidobacterium dentium Bd1
+402626,Ralstonia pickettii 12J
+405566,Lactobacillus helveticus DPC 4571
+405955,Escherichia coli APEC O1
+407035,Salinicoccus halodurans
+409438,Escherichia coli SE11
+411468,[Clostridium] scindens ATCC 35704
+411470,Mediterraneibacter gnavus ATCC 29149
+412690,Microterricola viridarii
+412694,Bacillus thuringiensis str. Al Hakam
+413503,Cronobacter malonaticus
+413997,Escherichia coli B str. REL606
+414970,Enterobacteria phage cdtI
+416870,Lactococcus cremoris subsp. cremoris MG1363
+417368,Enterococcus thailandicus
+418223,Methylobacterium phyllosphaerae
+419257,Yersinia massiliensis
+419475,Brucella pseudogrignonensis
+420247,Methanobrevibacter smithii ATCC 35061
+420889,Lactococcus garvieae ATCC 49156
+420890,Lactococcus garvieae Lg2
+421525,Kaistella haifensis
+423211,Streptococcus suis GZ1
+424182,Rhizobium sp. IRBG74
+424716,Salmonella phage Vi II-E1
+424720,Shigella flexneri Y
+427140,Leuconostoc mesenteroides KFRI-MG
+428406,Ralstonia pickettii 12D
+429009,Ammonifex degensii KC4
+430796,Staphylococcus phage phi2958PVL
+431943,Clostridium kluyveri DSM 555
+431946,Escherichia coli SE15
+431947,Porphyromonas gingivalis ATCC 33277
+432198,Escherichia phage HK106
+432200,Escherichia phage HK542
+432201,Escherichia phage HK544
+435590,Phocaeicola vulgatus ATCC 8482
+435591,Parabacteroides distasonis ATCC 8503
+436717,Acinetobacter oleivorans DR1
+439184,Escherichia coli RS218
+439375,Brucella anthropi ATCC 49188
+439843,Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633
+439855,Escherichia coli SMS-3-5
+440524,"Salmonella enterica subsp. enterica serovar 4,[5],12:i:-"
+441620,Methylorubrum populi BJ001
+443143,Geobacter sp. M18
+443906,Clavibacter michiganensis subsp. michiganensis NCPPB 382
+444450,Escherichia coli O157:H7 str. EC4115
+454169,Salmonella enterica subsp. enterica serovar Heidelberg str. SL476
+457405,Fusobacterium animalis 7_1
+458233,Macrococcoides caseolyticum JCSC5402
+467705,Streptococcus gordonii str. Challis substr. CH1
+468911,Liquorilactobacillus hordei
+469378,Cryptobacterium curtum DSM 15641
+469602,Fusobacterium vincentii 3_1_27
+469604,Fusobacterium vincentii 3_1_36A2
+469607,Fusobacterium animalis 4_8
+469615,Fusobacterium gonidiaformans ATCC 25563
+469616,Fusobacterium mortiferum ATCC 9817
+469617,Fusobacterium ulcerans ATCC 49185
+469618,Fusobacterium varium ATCC 27725
+470934,Pantoea vagans
+471855,Slackia heliotrinireducens DSM 20476
+474186,Enterococcus faecalis OG1RF
+476213,Salmonella enterica subsp. enterica serovar Paratyphi C str. RKS4594
+477974,Candidatus Desulforudis audaxviator MP104C
+478547,Campylobacter jejuni subsp. jejuni CG8421
+479436,Veillonella parvula DSM 2008
+479437,Eggerthella lenta DSM 2243
+481805,Escherichia coli ATCC 8739
+482822,Escherichia phage DE3
+483547,Geoalkalibacter subterraneus
+483687,Salmonella enterica subsp. enterica serovar Concord
+484020,Bifidobacterium bifidum BGN4
+484021,Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+484770,Pelosinus sp. UFO1
+485916,Desulfofarcimen acetoxidans DSM 771
+486410,Streptococcus dysgalactiae subsp. equisimilis GGS_124
+487213,Streptococcus pneumoniae Taiwan19F-14
+487214,Streptococcus pneumoniae Hungary19A-6
+487215,Streptococcus pyogenes Alab49
+488142,Serratia sp. SCBI
+488221,Streptococcus pneumoniae 70585
+488222,Streptococcus pneumoniae JJA
+488223,Streptococcus pneumoniae P1031
+489653,Neisseria lactamica 020-06
+489779,Escherichia phage Min27
+491077,Limosilactobacillus reuteri SD2112
+492670,Bacillus velezensis
+493803,Merkel cell polyomavirus
+494269,Skunavirus bibb29
+496874,Lactobacillus phage Lrm1
+497725,Kosakonia oryzae
+498211,Cellvibrio japonicus Ueda107
+498217,Edwardsiella tarda EIB202
+498388,Escherichia coli C
+498761,Heliomicrobium modesticaldum Ice1
+500634,Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456
+502558,Eggerthella sp. YY7918
+502800,Yersinia pseudotuberculosis YPIII
+504346,Pseudomonas phage PAJU2
+505292,Casadabanvirus MP38
+511145,Escherichia coli str. K-12 substr. MG1655
+511435,Candidatus Azobacteroides pseudotrichonymphae
+511437,Lentilactobacillus buchneri NRRL B-30929
+511691,Streptococcus mutans NN2025
+511995,Candidatus Azobacteroides pseudotrichonymphae genomovar. CFP2
+512566,Streptococcus pneumoniae G54
+515393,Pseudomonas yamanorum
+515619,Agathobacter rectalis ATCC 33656
+515620,[Eubacterium] eligens ATCC 27750
+515622,Butyrivibrio proteoclasticus B316
+516950,Streptococcus pneumoniae CGSP14
+518634,Bifidobacterium breve DSM 20213 = JCM 1192
+518635,Bifidobacterium angulatum DSM 20098 = JCM 7096
+519441,Streptobacillus moniliformis DSM 12112
+521095,Lancefieldella parvula DSM 20469
+521097,Capnocytophaga ochracea DSM 7271
+522373,Stenotrophomonas maltophilia K279a
+523794,Leptotrichia buccalis C-1013-b
+525146,Desulfovibrio desulfuricans ATCC 27774
+525283,Fusobacterium nucleatum subsp. nucleatum ATCC 23726
+525284,Gardnerella vaginalis ATCC 14019
+525326,Lactobacillus paragasseri JV-V03
+525381,Streptococcus pneumoniae TCH8431/19A
+525919,Anaerococcus prevotii DSM 20548
+526224,Brachyspira murdochii DSM 12563
+526227,Allomeiothermus silvanus DSM 9946
+526944,Tetragenococcus osmophilus
+529507,Proteus mirabilis HI4320
+532077,Klebsiella phage K11
+536231,Roseburia intestinalis L1-82
+536441,Chryseobacterium taklimakanense
+537007,Blautia hansenii DSM 20583
+537457,Actinobacillus pleuropneumoniae serovar 7 str. AP76
+537874,Streptococcus phage PH15
+537973,Lacticaseibacillus paracasei subsp. paracasei 8700:2
+543734,Lacticaseibacillus casei BL23
+544404,Escherichia coli O157:H7 str. TW14359
+544580,Actinomyces oris
+546263,Neisseria elongata subsp. glycolytica ATCC 29315
+546269,Filifactor alocis ATCC 35896
+546271,Selenomonas sputigena ATCC 35185
+546367,Hafnia paralvei
+547043,Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505
+548479,Mobiluncus curtisii ATCC 43063
+552811,Dehalogenimonas lykanthroporepellens BL-DC-9
+553174,Prevotella melaninogenica ATCC 25845
+553190,Gardnerella vaginalis 409-05
+553814,Acidovorax carolinensis
+553973,[Clostridium] hylemonae DSM 15053
+554406,Leptotrichia hongkongensis
+555778,Halothiobacillus neapolitanus c2
+556269,Oxalobacter formigenes OXCC13
+556499,Propionibacterium acidifaciens
+557393,Erwinia phage phiEa21-4
+557433,Limosilactobacillus reuteri subsp. reuteri JCM 1112
+557436,Limosilactobacillus reuteri subsp. reuteri
+557722,Pseudomonas aeruginosa LESB58
+558173,Corynebacterium doosanense CAU 212 = DSM 45436
+561231,Pectobacterium parmentieri WPP163
+561276,Streptococcus pneumoniae ATCC 700669
+561879,Bacillus safensis
+563769,Stx2-converting phage 1717
+564886,Enterobacteria phage YYZ-2008
+565034,Brachyspira hyodysenteriae WA1
+565040,Bifidobacterium longum subsp. infantis 157F
+565042,Bifidobacterium longum subsp. longum JCM 1217
+565651,Enterococcus faecalis ARO1/DG
+565655,Enterococcus casseliflavus EC20
+566546,Escherichia coli W
+566552,Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043
+567106,Campylobacter jejuni subsp. jejuni IA3902
+568704,Lacticaseibacillus rhamnosus Lc 705
+568814,Streptococcus suis BM407
+568816,Acidaminococcus intestini RyC-MR95
+569579,Escherichia coli NU14
+571256,Brucella pituitosa
+573059,Nitratidesulfovibrio vulgaris RCH1
+573061,Clostridium cellulovorans 743B
+573062,Thermoanaerobacter sp. X513
+573235,Escherichia coli O26:H11 str. 11368
+574093,Streptococcus pneumoniae AP200
+574521,Escherichia coli O127:H6 str. E2348/69
+575614,Prevotella sp. oral taxon 299 str. F0039
+577675,Escherichia coli O91:H21
+580327,Thermoanaerobacterium thermosaccharolyticum DSM 571
+583346,Clostridium kluyveri NBRC 12016
+585034,Escherichia coli IAI1
+585035,Escherichia coli S88
+585054,Escherichia fergusonii ATCC 35469
+585055,Escherichia coli 55989
+585057,Escherichia coli IAI39
+585394,Roseburia hominis A2-183
+585395,Escherichia coli O103:H2 str. 12009
+585396,Escherichia coli O111:H- str. 11128
+585528,Gardnerella vaginalis ATCC 14018 = JCM 11026
+585535,Helicobacter pylori 35A
+587753,Pseudomonas chlororaphis
+590409,Dickeya parazeae Ech586
+590739,Salmonella phage g341c
+591001,Acidaminococcus fermentans DSM 20731
+591020,Shigella flexneri 2002017
+591365,Streptococcus intermedius JTH08
+591946,Escherichia coli LF82
+592205,Helicobacter pylori B38
+593588,Vibrio cholerae MJ-1236
+593905,Salmonella enterica subsp. enterica serovar Corvallis
+595495,Escherichia coli KO11FL
+596154,Alicycliphilus denitrificans K601
+604162,Neisseria meningitidis 8013
+610130,[Clostridium] saccharolyticum WM1
+617121,Streptococcus dysgalactiae subsp. equisimilis RE378
+617123,Lachnoanaerobaculum umeaense
+626937,Christensenella minuta
+626939,Phascolarctobacterium succinatutens YIT 12067
+627087,Enterococcus phage EFAP-1
+630588,Neisseria meningitidis alpha710
+630626,Shimwellia blattae DSM 4481 = NBRC 105725
+631220,Desulfovibrio sp. G11
+633147,Olsenella uli DSM 7084
+633699,Lactobacillus johnsonii FI9785
+634176,Aggregatibacter aphrophilus NJ8700
+634500,Erwinia billingiae Eb661
+634503,Edwardsiella ictaluri 93-146
+637730,Shigella phage Ag3
+637887,Acetivibrio thermocellus DSM 1313
+637909,Streptococcus gallolyticus UCN34
+637910,Citrobacter rodentium ICC168
+639200,Sphaerotilus sulfidivorans
+640081,Azospira oryzae PS
+640131,Klebsiella variicola At-22
+641147,Simonsiella muelleri ATCC 29453
+642492,Cellulosilyticum lentocellum DSM 5427
+643562,Pseudodesulfovibrio aespoeensis Aspo-2
+644042,Lactiplantibacillus plantarum JDM1
+644282,Desulfarculus baarsii DSM 2075
+644801,Stutzerimonas stutzeri RCH2
+645127,Corynebacterium kroppenstedtii DSM 44385
+645464,Campylobacter jejuni subsp. jejuni M1
+645517,Paraurantiacibacter namhicola
+645991,Syntrophobotulus glycolicus DSM 8271
+649196,Sphingobacterium hotanense
+649743,Actinomyces sp. oral taxon 848 str. F0332
+649756,Anaerostipes hadrus
+655813,Streptococcus oralis ATCC 35037
+655817,Escherichia coli ABU 83972
+660596,Pantoea stewartii subsp. stewartii DC283
+662598,Neisseria meningitidis alpha14
+662755,Corynebacterium resistens DSM 45100
+663241,Enterococcus phage phiEf11
+663278,Ethanoligenens harbinense YUAN-3
+663954,Streptococcus dysgalactiae subsp. equisimilis ATCC 12394
+665033,Escherichia phage D108
+665883,Skunavirus CB13
+665884,Skunavirus CB14
+665886,Skunavirus CB19
+665887,Lactococcus phage CB20
+665913,Mixta calida
+665914,Mixta gaviniae
+667015,Phocaeicola salanitronis DSM 18170
+667120,Edwardsiella anguillarum ET080813
+668618,Staphylococcus phage P954
+672190,Streptococcus suis 05HAS68
+673372,Vibrio casei
+673832,Enterococcus phage phiFL1A
+673835,Enterococcus phage phiFL2A
+673839,Enterococcus phage phiFL4A
+679935,Alistipes finegoldii DSM 17242
+680646,Rothia mucilaginosa DY-18
+682370,Brussowvirus ALQ132
+682634,Serratia plymuthica 4Rx13
+684738,Lactococcus lactis subsp. lactis KF147
+685038,Escherichia coli O83:H1 str. NRG 857C
+693216,Cronobacter turicensis z3032
+693444,Enterobacteriaceae bacterium strain FGI 57
+693746,Oscillibacter valericigenes Sjm18-20
+693979,Bacteroides helcogenes P 36-108
+693986,Methylobacterium oryzae CBMB20
+694427,Paludibacter propionicigenes WB4
+694431,Desulfurella acetivorans A63
+694569,Aggregatibacter actinomycetemcomitans D7S-1
+695562,Lactobacillus amylovorus GRL1118
+696216,Streptococcus constellatus subsp. pharyngis C232
+696406,Escherichia coli UMNK88
+696485,Vibrio owensii
+697283,Streptococcus pneumoniae gamPNI0373
+697329,Ruminococcus albus 7 = DSM 20455
+698737,Staphylococcus lugdunensis HKU09-01
+698758,Amphibacillus xylanus NBRC 15112
+698973,Corynebacterium diphtheriae BH8
+699035,Clostridioides difficile M120
+699246,Mageeibacillus indolicus UPII9-5
+700015,Coriobacterium glomerans PW2
+700508,Mycolicibacterium neoaurum VKM Ac-1815D
+701177,Escherichia coli O55:H7 str. CB9615
+701347,[Enterobacter] lignolyticus SCF1
+701521,Pediococcus claussenii ATCC BAA-344
+702459,Bifidobacterium bifidum PRL2010
+702967,Corynebacterium sp. NML98-0116
+702982,Salmonella enterica subsp. enterica serovar Saintpaul str. SARA26
+706191,Pantoea ananatis LMG 20103
+706439,Actinomyces sp. oral taxon 171 str. F0337
+709991,Odoribacter splanchnicus DSM 20712
+712122,Actinomyces sp. oral taxon 414
+712310,Haemophilus sp. oral taxon 036
+712357,Leptotrichia sp. oral taxon 212
+712368,Leptotrichia sp. oral taxon 498
+712411,Olsenella sp. oral taxon 807
+712538,Selenomonas sp. oral taxon 478
+712633,Streptococcus sp. oral taxon 431
+712710,Tannerella serpentiformis
+712898,Pantoea vagans C9-1
+712938,Limosilactobacillus fermentum CECT 5716
+712991,Lachnospiraceae bacterium oral taxon 500
+713030,Selenomonas sp. oral taxon 136
+713059,Candidatus Saccharibacteria bacterium oral taxon 488
+714313,Fructilactobacillus sanfranciscensis TMW 1.1304
+714359,Bacillus thuringiensis BMB171
+714583,Salmonella phage ST160
+714962,Escherichia coli IHE3034
+716541,Enterobacter cloacae subsp. cloacae ATCC 13047
+718274,Salmonella enterica subsp. enterica serovar Typhimurium str. T000240
+720554,Acetivibrio clariflavus DSM 19732
+739141,Methylobacterium sp. XJLW
+741093,Escherichia coli Xuzhou21
+742737,Hungatella hathewayi WAL-18680
+743722,Sphingobacterium sp. 21
+743972,Actinobacillus suis ATCC 33415
+744872,Gracilinema caldarium DSM 7334
+745156,Escherichia coli 1303
+746361,Lactococcus cremoris subsp. cremoris NZ9000
+748672,Yersinia pseudotuberculosis str. PA3606
+749965,Salmonella enterica subsp. enterica serovar Senftenberg str. 361154004
+754252,Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1
+754345,Actinobacillus pleuropneumoniae serovar 8
+754507,Aggregatibacter actinomycetemcomitans ANH9381
+755731,Clostridium sp. BNL1100
+755732,Fluviicola taffensis DSM 16823
+756892,Acinetobacter indicus
+758831,Escherichia coli ECC-1470
+759350,Bifidobacterium longum subsp. longum JDM301
+759620,Weissella ceti
+759913,Streptococcus dysgalactiae subsp. equisimilis AC-2713
+759914,Brachyspira pilosicoli 95/1000
+760011,Parasphaerochaeta coccoides DSM 17374
+760570,Streptococcus parasanguinis ATCC 15912
+762051,Leuconostoc kimchii IMSNU 11154
+762633,Thermus thermophilus SG0.5JP17-16
+762948,Rothia dentocariosa ATCC 17931
+762982,Paraprevotella xylaniphila YIT 11841
+765962,Helicobacter pylori SJM180
+767029,Arachnia propionica F0230a
+767031,Prevotella denticola F0289
+767453,Limosilactobacillus fermentum F-6
+767455,Lactobacillus delbrueckii subsp. bulgaricus ND02
+767456,Lactobacillus helveticus H9
+767462,Lactobacillus helveticus H10
+767463,Streptococcus thermophilus ND03
+767468,Lactiplantibacillus plantarum subsp. plantarum P-8
+767817,Desulfoscipio gibsoniae DSM 7213
+768065,Haloquadratum walsbyi C23
+768486,Enterococcus hirae ATCC 9790
+768490,Serratia sp. AS12
+768493,Serratia sp. AS13
+768706,Desulfosporosinus orientis DSM 765
+795665,Hydrogenophaga sp. PBC
+796730,Salmonella enterica subsp. enterica serovar Newport str. CVM 22425
+858215,Thermoanaerobacterium xylanolyticum LX-11
+858305,Salmonella enterica subsp. enterica serovar Newport str. CVM 22462
+858306,Salmonella enterica subsp. enterica serovar Newport str. CVM N18486
+858619,Corynebacterium variabile DSM 44702
+859143,Cytobacillus kochii
+859199,Salmonella enterica subsp. enterica serovar Montevideo str. 507440-20
+860228,Capnocytophaga canimorsus Cc5
+862962,Bacteroides fragilis 638R
+862964,Haemophilus influenzae 10810
+862965,Haemophilus parainfluenzae T3T1
+862966,Streptococcus intermedius C270
+862967,Streptococcus intermedius B196
+862968,Streptococcus constellatus subsp. pharyngis C818
+862969,Streptococcus constellatus subsp. pharyngis C1050
+862970,Streptococcus anginosus C1051
+862971,Streptococcus anginosus C238
+863372,Herbaspirillum huttiense
+864564,Parascardovia denticolens DSM 10105 = JCM 12538
+864828,Pseudoduganella umbonata
+866345,Helicobacter pylori F30
+866553,Escherichia phage vB_EcoP_24B
+866630,Haemophilus influenzae F3031
+866777,Bifidobacterium breve ACS-071-V-Sch8b
+866789,Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775
+866913,"Salmonella enterica subsp. enterica serovar 4,[5],12:i:- str. 08-1736"
+867902,Ornithobacterium rhinotracheale DSM 15997
+868595,Desulfotomaculum nigrificans CO-1-SRB
+869209,Treponema succinifaciens DSM 2489
+869216,Streptococcus pneumoniae INV200
+869269,Streptococcus pneumoniae INV104
+869309,Streptococcus pneumoniae SPNA45
+869311,Streptococcus pneumoniae SPN032672
+869312,Streptococcus pneumoniae SPN033038
+869729,Escherichia coli UM146
+871585,Acinetobacter pittii PHEA-2
+874267,Staphylococcus phage phi5967PVL
+877468,Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1
+879243,Porphyromonas asaccharolytica DSM 20707
+880074,Barnesiella viscericola DSM 18177
+880633,Lactobacillus helveticus R0052
+881260,Enterobacter bugandensis
+883062,Bifidobacterium bifidum S17
+885040,Enterobacter soli
+885275,Escherichia coli str. 'clone D i14'
+885276,Escherichia coli str. 'clone D i2'
+887061,Methylovorus sp. MP688
+888027,Lactobacillus delbrueckii subsp. lactis DSM 20072
+888050,Schaalia cardiffensis F0333
+888057,Aggregatibacter segnis ATCC 33393
+888061,Desulfomicrobium orale DSM 12838
+888727,Eubacterium sulci ATCC 35585
+888827,Aliarcobacter butzleri JV22
+889201,Streptococcus cristatus ATCC 51100
+889453,Alkalitalea saponilacus
+889932,Lactiplantibacillus plantarum ST-III
+890402,Bifidobacterium longum subsp. longum BBMN68
+891974,Plautia stali symbiont
+906668,Escherichia phage HK75
+906669,Escherichia phage HK639
+906968,Treponema brennaborense DSM 12168
+907240,Helicobacter pylori Gambia94/24
+908937,Prevotella dentalis DSM 3688
+909952,Cutibacterium acnes 266
+909954,Lactobacillus johnsonii DPC 6026
+910265,Pseudomonas aeruginosa C-NN2
+910348,Escherichia coli P12b
+913070,Salmonella enterica subsp. enterica serovar Gaminara
+913848,Loigolactobacillus coryniformis subsp. coryniformis KCTC 3167 = DSM 20001
+926034,Salmonella enterica subsp. enterica serovar Enteritidis str. 77-1427
+927666,Streptococcus oralis Uo5
+927703,Limosilactobacillus reuteri subsp. suis
+927704,Selenomonas ruminantium subsp. lactilytica TAM6421
+929102,Lactococcus lactis subsp. lactis CV56
+929506,Clostridium botulinum BKT015925
+929813,Gibbsiella quercinecans
+929814,Salmonella phage RE2010
+930166,Pseudomonas brassicacearum
+930170,Bacillus thuringiensis serovar finitimus YBT-020
+930406,Escherichia coli O157:H16
+930778,Salmonella enterica subsp. enterica serovar Newport str. Levine 1
+930779,Salmonella enterica subsp. enterica serovar Newport str. Levine 15
+930944,Yersinia enterocolitica subsp. palearctica Y11
+931276,Clostridium saccharoperbutylacetonicum N1-4(HMT)
+932677,Pantoea ananatis AJ13355
+932733,Salmonella enterica subsp. enterica serovar Bardo
+935198,Clostridium botulinum B str. Eklund 17B (NRP)
+935296,Klebsiella aerogenes EA1509E
+935591,Neisseria meningitidis M01-240149
+935705,Salmonella enterica subsp. enterica serovar Thompson str. ATCC 8391
+935897,Haemophilus influenzae F3047
+936054,Enterobacteria phage VT2phi_272
+936140,Companilactobacillus farciminis KCTC 3681 = DSM 20184
+936154,Streptococcus parauberis KCTC 11537
+936156,Bacillus subtilis BSn5
+936351,Bifidobacterium breve S27
+937773,Staphylococcus pseudintermedius HKU10-03
+937835,Casadabanvirus PA1KOR
+938141,Salmonella enterica subsp. enterica serovar Sloterdijk str. ATCC 15791
+938142,Salmonella enterica subsp. enterica serovar Choleraesuis str. ATCC 10708
+938143,Salmonella enterica subsp. enterica serovar Rubislaw str. ATCC 10717
+938155,Companilactobacillus futsaii
+941187,Salmonella enterica subsp. enterica serovar Inverness str. ATCC 10720
+941188,Salmonella enterica subsp. enterica serovar Pomona str. ATCC 10729
+941189,Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 11511
+941190,Salmonella enterica subsp. enterica serovar Chester str. ATCC 11997
+941193,Pseudomonas aeruginosa M18
+941280,Escherichia coli O25b:H4
+941323,Escherichia coli VR50
+941639,Heyndrickxia coagulans 2-6
+944546,Aliarcobacter butzleri ED-1
+945704,Streptococcus suis JS14
+947515,Ectothiorhodospiraceae bacterium BW-2
+947980,Lactobacillus phage LF1
+948519,Aeromonas rivipollensis
+979982,Leuconostoc sp. C2
+981539,Streptococcus gallolyticus subsp. gallolyticus ATCC 43143
+981540,Streptococcus pasteurianus ATCC 43144
+984175,Cronobacter phage ENT39118
+984237,Salmonella enterica subsp. enterica serovar Mbandaka str. ATCC 51958
+985002,Staphylococcus argenteus
+985008,Aggregatibacter aphrophilus ATCC 33389
+990315,Xanthomonas campestris pv. raphani 756C
+990317,Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069
+991789,Anaerotignum propionicum DSM 1682
+991915,Escherichia coli O121:H19
+991919,Escherichia coli O145:NM
+994476,Yersinia enterocolitica subsp. palearctica 105.5R(r)
+994484,Pseudomonas brassicacearum subsp. brassicacearum NFM421
+996285,Stutzerimonas stutzeri DSM 4166
+996633,Salmonella enterica subsp. enterica serovar Typhimurium str. L-3553
+997333,Salmonella enterica subsp. enterica serovar Oranienburg str. 0250
+997877,Phocaeicola dorei CL03T12C01
+998088,Aeromonas veronii B565
+998822,Salmonella enterica subsp. enterica serovar Enteritidis str. RM2968
+1001583,Levilactobacillus brevis KB290
+1001989,Escherichia coli PCN033
+1002809,Solibacillus silvestris StLB046
+1004952,Streptococcus suis D12
+1005041,Streptococcus suis SS12
+1005042,Streptococcus suis D9
+1006551,Klebsiella michiganensis KCTC 1686
+1009464,Gardnerella vaginalis HMP9231
+1009714,Pseudomonas aeruginosa PAK
+1028307,Klebsiella aerogenes KCTC 2190
+1029979,Salmonella enterica subsp. enterica serovar Pullorum str. ATCC 9120
+1030843,Porphyromonas gingivalis TDC60
+1031709,Cutibacterium acnes 6609
+1031753,Campylobacter lanienae NCTC 13004
+1032069,Campylobacter ureolyticus RIGS 9880
+1032071,Aliarcobacter cryaerophilus D2610
+1033837,Lactobacillus kefiranofaciens ZW3
+1035817,Bifidobacterium longum subsp. longum KACC 91563
+1036172,Aliarcobacter butzleri 7h1h
+1037911,Pseudomonas fluorescens A506
+1038927,Escherichia coli O104:H4
+1041524,Escherichia phage K30
+1042156,Clostridium sp. SY8519
+1042417,Brachyspira pilosicoli P43/6/78
+1045010,Escherichia coli O157
+1045854,Weissella koreensis KACC 15510
+1045858,Brachyspira intermedia PWS/A
+1046624,Lactococcus lactis subsp. lactis IO-1
+1048332,Streptococcus salivarius CCHSS3
+1048689,Escherichia coli O55:H7 str. RM12579
+1049565,Klebsiella pneumoniae KCTC 2242
+1050107,Lactobacillus delbrueckii subsp. sunkii
+1051072,Streptococcus equi subsp. zooepidemicus ATCC 35246
+1051074,Streptococcus thermophilus JIM 8232
+1051631,Streptococcus phage YMC-2011
+1051650,Lacticaseibacillus casei 12A
+1051674,Erwinia phage vB_Eam-MM7
+1051973,Rhodococcus fascians D188
+1054217,Thermoplasmatales archaeon BRNA1
+1054460,Streptococcus pseudopneumoniae IS7493
+1054480,Escherichia phage wV7
+1055527,Helicobacter pylori ELS37
+1055529,Helicobacter pylori Puno135
+1055530,Helicobacter pylori SNT49
+1055534,Escherichia coli O26 str. RM10386
+1055540,Escherichia coli O103 str. RM8385
+1055541,Escherichia coli O43 str. RM10042
+1055542,Escherichia coli O111 str. RM9322
+1055543,Escherichia coli O121 str. RM8352
+1055544,Escherichia coli O145 str. RM9872
+1055545,Escherichia coli O91 str. RM7190
+1064535,Megasphaera elsdenii DSM 20460
+1069533,Streptococcus infantarius subsp. infantarius CJ18
+1069534,Ligilactobacillus ruminis ATCC 27782
+1071400,Lentilactobacillus buchneri subsp. silagei CD034
+1072459,Escherichia coli O7:K1 str. CE10
+1072685,Basilea psittacipulmonis DSM 24701
+1073571,Paenibacillus riograndensis SBR5
+1073999,Cronobacter condimenti 1330
+1074000,Cronobacter universalis NCTC 9529
+1076934,Streptococcus lutetiensis 033
+1077085,Salmonella enterica subsp. enterica serovar Fresno
+1077464,Streptococcus oralis subsp. tigurinus
+1078021,Escherichia coli O113:H21
+1078032,Escherichia coli O45:H2
+1081940,Pseudomonas putida B6-2
+1086030,Shigella flexneri 5a str. M90T
+1088720,Lacticaseibacillus rhamnosus ATCC 8530
+1089553,Thermacetogenium phaeum DSM 12270
+1090133,Enterobacteria phage IME10
+1091045,Cutibacterium acnes subsp. defendens ATCC 11828
+1093787,Pseudomonas aeruginosa DK2
+1104322,Lactococcus cremoris subsp. cremoris A76
+1104326,Enterobacter cloacae subsp. dissolvens SDM
+1105171,Bacteroides phage B124-14
+1107880,Leuconostoc mesenteroides subsp. mesenteroides J18
+1111678,Lactococcus cremoris subsp. cremoris UC509.9
+1111760,Streptococcus troglodytae
+1113547,Salmonella phage 9NA
+1114965,Streptococcus parasanguinis FW213
+1114966,Cutibacterium acnes TypeIA2 P.acn33
+1114970,Pseudomonas ogarae
+1116231,Streptococcus macedonicus ACA-DC 198
+1117941,Lactococcus lactis subsp. lactis NCDO 2118
+1122984,Prevotella intermedia ATCC 25611 = DSM 20706
+1123015,Pseudomonas aeruginosa DSM 50071 = NBRC 12689
+1123016,Stutzerimonas balearica DSM 6083
+1123519,Stutzerimonas stutzeri DSM 10701
+1123862,Klebsiella pneumoniae subsp. pneumoniae Kp13
+1123863,Pantoea ananatis LMG 5342
+1124654,Escherichia phage TL-2011b
+1124936,Salmonella enterica subsp. enterica serovar Heidelberg str. 41578
+1124958,Salmonella enterica subsp. enterica serovar Muenster str. 0315
+1124959,Salmonella enterica subsp. enterica serovar Muenster str. 420
+1124961,Salmonella enterica subsp. enterica serovar Panama str. ATCC 7378
+1124962,Salmonella enterica subsp. enterica serovar Poona str. ATCC BAA-1673
+1124991,Morganella morganii subsp. morganii KT
+1125630,Klebsiella pneumoniae subsp. pneumoniae HS11286
+1127357,Salmonella phage SPN9CC
+1129146,Detrevirus PMG1
+1130798,Limosilactobacillus mucosae LM1
+1130804,Streptococcus pneumoniae ST556
+1132496,Pasteurella multocida subsp. multocida str. HN06
+1133568,Brachyspira pilosicoli B2904
+1133852,Escherichia coli O104:H4 str. 2011C-3493
+1133853,Escherichia coli O104:H4 str. 2009EL-2071
+1134687,Klebsiella michiganensis
+1134782,Escherichia coli O104:H4 str. 2009EL-2050
+1136179,Rhodococcus erythropolis CCM2595
+1138308,Cronobacter sakazakii ES15
+1138384,Acetivibrio thermocellus AD2
+1147143,Enterobacteria phage HK140
+1147144,Enterobacteria phage HK225
+1147145,Escherichia phage HK446
+1147146,Escherichia phage HK630
+1147147,Escherichia phage HK633
+1147148,Escherichia phage HK629
+1147149,Enterobacteria phage mEp043 c-1
+1147150,Enterobacteria phage mEp235
+1147151,Enterobacteria phage mEp237
+1147152,Enterobacteria phage mEp460
+1147153,Escherichia phage mEpX1
+1147154,Escherichia phage mEpX2
+1147156,Enterobacteria phage mEp213
+1147157,Escherichia phage mEp234
+1147786,Pseudomonas mandelii JR-1
+1150423,Bifidobacterium dentium JCM 1195 = DSM 20436
+1150460,Bifidobacterium catenulatum subsp. kashiwanohense JCM 15439 = DSM 21854
+1150461,Bifidobacterium scardovii JCM 12489 = DSM 13734
+1150468,Scardovia inopinata JCM 12537
+1151001,Salmonella enterica subsp. enterica serovar Napoli
+1155071,Streptococcus mutans LJ23
+1156431,Streptococcus ilei
+1157365,Enterococcus faecalis EnGen0107
+1158459,Kosakonia sacchari
+1158600,Enterococcus faecium ATCC 8459 = NRRL B-2354
+1159491,Cronobacter malonaticus LMG 23826
+1159554,Cronobacter dublinensis subsp. dublinensis LMG 23823
+1159613,Cronobacter muytjensii ATCC 51329
+1160721,Ruminococcus bicirculans (ex Wegman et al. 2014)
+1160769,Salmonella enterica subsp. enterica serovar Worthington
+1161903,Pseudomonas phage MP42
+1165134,Skunavirus ASCC191
+1165135,Skunavirus ASCC273
+1165136,Skunavirus ASCC281
+1165151,Skunavirus ASCC465
+1165160,Skunavirus ASCC532
+1165892,Leuconostoc gasicomitatum KG16-1
+1166130,Enterobacter sp. R4-368
+1167629,Bifidobacterium animalis subsp. lactis ATCC 27673
+1168034,Draconibacterium orientale
+1168548,Salmonella phage vB_SemP_Emek
+1168612,Staphylococcus phage SMSAP5
+1170318,Cutibacterium avidum 44067
+1171376,Salmonella enterica subsp. enterica serovar Typhimurium str. U288
+1171377,Bibersteinia trehalosi USDA-ARS-USMARC-192
+1173769,Salmonella phage FSLSP004
+1173798,Salmonella enterica subsp. enterica serovar Albany str. ATCC 51960
+1173939,Salmonella enterica subsp. enterica serovar Weltevreden str. 1655
+1177180,Kosakonia radicincitans DSM 16656
+1177574,Prevotella jejuni
+1177632,Salmonella phage SSU5
+1178537,Bacillus xiamenensis
+1179670,Micrococcus sp. KBS0714
+1182177,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000752
+1182590,Pseudomonas oleovorans CECT 5344
+1183379,Campylobacter coli RM4661
+1183380,Campylobacter coli RM5611
+1183391,Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000968
+1187894,Clostridium phage PhiS63
+1187956,Streptococcus thermophilus MN-ZLW-002
+1191061,Klebsiella michiganensis E718
+1192197,Pelosinus fermentans JBW45
+1193292,Klebsiella pneumoniae subsp. pneumoniae 1084
+1193501,Pseudomonas aeruginosa SJTD-1
+1194154,Salmonella enterica subsp. enterica serovar Bredeney str. CFSAN001080
+1194159,Salmonella enterica subsp. enterica serovar Stanleyville str. CFSAN000624
+1194526,Staphylococcus warneri SG1
+1194971,Ligilactobacillus salivarius str. Ren
+1195068,Staphylococcus phage StauST398-1
+1196094,Snodgrassella alvi wkB2
+1196325,Pseudomonas putida DOT-T1E
+1197717,Cloacibacillus porcorum
+1197719,Salmonella bongori N268-08
+1198676,Streptococcus mutans GS-5
+1200752,Escherichia coli NCCP15648
+1201292,Enterococcus faecalis ATCC 29212
+1203670,Streptococcus agalactiae GD201008-001
+1204528,Salmonella phage SKML-39
+1204540,Enterococcus phage EfaCPT1
+1206105,Enterococcus faecalis D32
+1206777,Pseudomonas sp. Lz4W
+1208104,Aeromonas media WS
+1208611,Salmonella enterica subsp. enterica serovar Abaetetuba str. ATCC 35640
+1208919,Candidatus Kinetoplastibacterium desouzaii TCC079E
+1211417,uncultured crAssphage
+1211579,Pseudomonas putida NBRC 14164
+1211705,Vibrio parahaemolyticus BB22OP
+1214179,Streptococcus suis 6407
+1215088,Pseudomonas putida HB3267
+1215914,Lacticaseibacillus casei W56
+1216932,Clostridium bornimense
+1217420,Lactobacillus delbrueckii subsp. jakobsenii ZN7a-9 = DSM 26046
+1217984,Bacillus cereus FRI-35
+1221522,Pseudomonas fluorescens NCIMB 11764
+1222338,Enterobacteria phage GEC-3S
+1223260,Pseudomonas phage JBD30
+1223261,Pseudomonas phage JBD5
+1225181,Klebsiella pneumoniae subsp. pneumoniae KPNIH24
+1225789,Enterobacteria phage SfI
+1225792,Pseudomonas phage JBD25
+1228997,Riemerella anatipestifer RA-CH-1
+1229621,Anaerostipes rhamnosivorans
+1229751,Lactococcus phage BM13
+1229756,Leuconostoc gelidum JB7
+1229758,Leuconostoc carnosum JB16
+1231072,Clostridium tetani 12124569
+1232385,[Brevibacterium] flavum ZL-1
+1232659,Haemophilus influenzae 2019
+1234378,Lawsonia intracellularis N343
+1234679,Carnobacterium maltaromaticum LMA28
+1235834,Kosakonia sacchari SP1
+1236517,Prevotella fusca JCM 17724
+1236689,Candidatus Methanomethylophilus alvi Mx1201
+1236909,Wolbachia endosymbiont of Drosophila simulans wHa
+1239307,Sodalis praecaptivus
+1240708,Salmonella enterica subsp. enterica serovar Bergen str. ST350
+1242090,Salmonella enterica subsp. enterica serovar Crossness str. 1422-74
+1242094,Salmonella enterica subsp. enterica serovar Gaminara str. SA20063285
+1242096,Salmonella enterica subsp. enterica serovar Hillingdon str. N1529-D3
+1242097,Salmonella enterica subsp. enterica serovar Hvittingfoss str. SA20014981
+1242101,Salmonella enterica subsp. enterica serovar Johannesburg str. ST203
+1242105,Salmonella enterica subsp. enterica serovar Koessen str. S-1501
+1242107,Salmonella enterica subsp. enterica serovar Macclesfield str. S-1643
+1243578,Salmonella enterica subsp. enterica serovar Milwaukee str. SA19950795
+1243586,Salmonella enterica subsp. enterica serovar Ouakam str. SA20034636
+1243602,Salmonella enterica subsp. salamae serovar 55:k:z39 str. 1315K
+1243607,"Salmonella enterica subsp. arizonae serovar 63:g,z51:-"
+1243612,Salmonella enterica subsp. diarizonae serovar 50:k:z str. MZ0080
+1243616,Salmonella enterica subsp. diarizonae serovar 65:c:z str. SA20044251
+1243617,Salmonella bongori serovar 66:z41:- str. SA19983605
+1244085,Klebsiella pneumoniae CG43
+1245471,Pseudomonas resinovorans NBRC 106553
+1246365,Streptococcus suis SC070731
+1248823,Escherichia coli O145:H28 str. RM12581
+1248902,Escherichia coli O145:H28 str. RM13514
+1248903,Escherichia coli O145:H28 str. RM12761
+1248915,Escherichia coli O145:H28 str. RM13516
+1254439,Bifidobacterium thermophilum RBL67
+1258574,Streptococcus gallolyticus subsp. gallolyticus DSM 16831
+1259973,Klebsiella electrica
+1261127,Citrobacter amalonaticus Y19
+1261556,Xanthomonas translucens pv. translucens DSM 18974
+1261557,Enterococcus faecalis str. Symbioflor 1
+1262462,Yersinia enterocolitica (type O:5) str. YE53/03
+1262470,Herbaspirillum hiltneri N3
+1262518,Leuconostoc phage LN25
+1262519,Leuconostoc phage LN34
+1262533,Lactococcus phage 340
+1262535,Lactococcus phage jm2
+1262536,Lactococcus phage jm3
+1262537,Lactococcus phage P680
+1262538,Lactococcus phage phi7
+1263550,Edwardsiella piscicida
+1263831,Bibersteinia trehalosi USDA-ARS-USMARC-189
+1265478,Enterobacteriaceae bacterium bta3-1
+1266738,Proteus mirabilis BB2000
+1266845,Carnobacterium inhibens subsp. gilichinskyi
+1266923,Brachyspira hyodysenteriae ATCC 27164
+1267000,Metamycoplasma hominis ATCC 27545
+1271752,Riemerella anatipestifer RA-CH-2
+1271862,Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921
+1271863,Salmonella enterica subsp. enterica serovar Cubana str. CFSAN002050
+1271864,Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069
+1273173,Campylobacter coli CVM N29710
+1274814,Escherichia coli APEC O78
+1276647,Streptococcus suis TL13
+1276648,Cutibacterium acnes hdn-1
+1279008,Pseudomonas aeruginosa PA1R
+1279031,Agrobacterium sp. 33MFTa1.1
+1280938,Pseudomonas aeruginosa B136-33
+1281282,Xanthomonas campestris pv. campestris str. CN14
+1281283,Xanthomonas campestris pv. campestris str. CN15
+1282356,Pseudomonas poae RE*1-1-14
+1282358,Shigella flexneri Shi06HN006
+1283291,Pseudomonas sp. URMO17WK12:I11
+1284663,Lactiplantibacillus plantarum ZJ316
+1284798,Klebsiella pneumoniae DMC1097
+1284802,Klebsiella pneumoniae UHKPC33
+1285583,Corynebacterium casei LMG S-19264
+1286170,Raoultella ornithinolytica B6
+1286171,Peptoclostridium acidaminophilum DSM 3953
+1287055,Brachyspira hampsonii
+1287066,Enterococcus faecalis DENG1
+1288122,Edwardsiella piscicida C07-087
+1291379,Treponema pedis str. T A4
+1291540,Methanomethylophilus alvi
+1291742,Paucilactobacillus hokkaidonensis JCM 18461
+1292358,Bacillus amyloliquefaciens KHG19
+1293592,Latilactobacillus curvatus JCM 1096 = DSM 20019
+1294143,Pseudomonas sp. ATCC 13867
+1295009,Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1
+1295140,Haemophilus influenzae CGSHiCZ412602
+1295826,Lactococcus cremoris subsp. cremoris KW2
+1296536,Enterobacter hormaechei subsp. xiangfangensis
+1296540,Paucilactobacillus nenjiangensis
+1297617,Intestinimonas butyriciproducens
+1298917,Salmonella enterica subsp. enterica serovar Pullorum str. S06004
+1300150,Enterococcus mundtii QU 25
+1300165,Kosakonia cowanii JCM 10956 = DSM 18146
+1300227,Bifidobacterium longum subsp. longum GT15
+1300259,Alteromonas mediterranea UM4b
+1301098,Pseudomonas knackmussii B13
+1302863,Streptococcus cristatus AS 1.3089
+1304922,Klebsiella pneumoniae 500_1420
+1305849,Enterococcus faecium Aus0085
+1306993,Pseudomonas soli
+1307427,Fusobacterium vincentii ChDC F8
+1307428,Fusobacterium nucleatum subsp. nucleatum ChDC F316
+1307442,Fusobacterium hwasookii ChDC F174
+1307443,Fusobacterium hwasookii ChDC F206
+1307444,Fusobacterium hwasookii ChDC F300
+1307763,Kiritimatiella glycovorans
+1307832,Tannerella forsythia 3313
+1307833,Tannerella forsythia KS16
+1308980,Klebsiella michiganensis HKOPL1
+1309807,Streptococcus agalactiae ILRI005
+1311757,Escherichia coli ACN001
+1316593,Capnocytophaga sp. oral taxon 864
+1316933,Lacticaseibacillus rhamnosus LOCK900
+1322345,Escherichia coli ATCC 25922
+1324352,Chryseobacterium gallinarum
+1324960,Aeromonas salmonicida subsp. pectinolytica 34mel
+1325095,Bradyrhizobium guangzhouense
+1325107,Bradyrhizobium zhanjiangense
+1327988,Lactiplantibacillus plantarum 16
+1328324,Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+1328859,Escherichia coli O157:H7 str. SS17
+1329907,Escherichia coli APEC IMT5155
+1330043,Bacillus bombysepticus str. Wang
+1330457,Escherichia coli O157:H7 str. SS52
+1333848,Citrobacter freundii CFNIH1
+1333849,Enterobacter hormaechei subsp. hoffmannii ECR091
+1333850,Enterobacter cloacae ECNIH2
+1333851,Enterobacter hormaechei subsp. hoffmannii ECNIH3
+1333852,Klebsiella oxytoca KONIH1
+1334187,Haemophilus influenzae KR494
+1334193,[Enterobacter] lignolyticus
+1334564,Serratia marcescens SM39
+1335303,Escherichia coli O104:H21 str. CFSAN002236
+1335613,Gordonibacter urolithinfaciens
+1335916,Escherichia coli LY180
+1336746,Streptococcus pyogenes HSC5
+1340495,Limosilactobacillus reuteri I5007
+1340847,Streptococcus suis T15
+1340851,Pseudomonas aeruginosa RP73
+1344042,Enterococcus faecium T110
+1346611,Thermoclostridium stercorarium subsp. leptospartum DSM 9219
+1346614,Serratia liquefaciens ATCC 27592
+1348660,Serratia plymuthica S13
+1348662,Corynebacterium argentoratense DSM 44202
+1349826,Campylobacter jejuni subsp. jejuni D42a
+1349827,Campylobacter jejuni subsp. jejuni M129
+1351755,Clostridium chauvoei JF4335
+1353243,Streptococcus anginosus subsp. whileyi MAS624
+1354302,Aeromonas hydrophila 4AK4
+1355100,Escherichia coli JJ1886
+1355101,Escherichia coli JJ1887
+1357825,Enterobacteria phage fiAA91-ss
+1358004,Xanthomonas campestris pv. campestris str. CN03
+1358015,Xanthomonas campestris pv. campestris str. CN17
+1358017,Xanthomonas campestris pv. campestris str. CN12
+1358019,Xanthomonas campestris pv. campestris str. CN18
+1358027,Limosilactobacillus reuteri TD1
+1358422,Escherichia coli PCN061
+1365186,Klebsiella pneumoniae KP-1
+1368166,Staphylococcus aureus subsp. aureus SA268
+1379690,Bacteroides ovatus V975
+1379909,Rufibacter sp. DG15C
+1380360,Lactobacillus gasseri DSM 14869
+1380361,Lacticaseibacillus rhamnosus DSM 14870
+1380908,Klebsiella pneumoniae JM45
+1381124,Limosilactobacillus fermentum 3872
+1382510,Salmonella bongori serovar 48:z41:-- str. RKS3044
+1384061,Pseudomonas putida S13.1.2
+1384484,Adlercreutzia equolifaciens DSM 19450
+1385385,Streptococcus phage TP-778L
+1385938,Bifidobacterium breve 12L
+1385939,Bifidobacterium breve JCM 7017
+1385940,Bifidobacterium breve JCM 7019
+1385941,Bifidobacterium breve NCFB 2258
+1385942,Bifidobacterium breve 689b
+1391190,Pseudomonas phage MP48
+1392005,Comamonas testosteroni TK102
+1392231,Streptococcus phage 20617
+1392476,Staphylococcus aureus subsp. aureus 6850
+1392499,Klebsiella pneumoniae subsp. pneumoniae 1158
+1392500,Klebsiella pneumoniae HK787
+1392854,Escherichia coli M8
+1399029,Salmonella enterica subsp. enterica serovar Anatum str. CFSAN003961
+1399047,Salmonella enterica subsp. enterica serovar Senftenberg str. CFSAN004025
+1399116,Lactococcus lactis subsp. lactis KLDS 4.0325
+1399941,Lactobacillus phage phiJB
+1399949,Staphylococcus phage YMC/09/04/R1988
+1400053,Bacteroidales bacterium CF
+1400867,Acinetobacter baumannii ZW85-1
+1400868,Pseudomonas aeruginosa VRFPA04
+1401254,Serratia marcescens SMB2099
+1401325,Ornithobacterium rhinotracheale ORT-UMN 88
+1401688,Escherichia coli APEC O18
+1403335,Porphyromonas gingivalis 381
+1403336,Porphyromonas gingivalis AJW4
+1403338,Porphyromonas gingivalis A7A1-28
+1403449,Streptococcus equi subsp. zooepidemicus CY
+1404367,Bradyrhizobium symbiodeficiens
+1406512,Candidatus Methanomassiliicoccus intestinalis
+1407493,Shigella phage SfIV
+1408178,Streptococcus thermophilus ASCC 1275
+1408186,Lactobacillus johnsonii N6.2
+1408206,Pediococcus pentosaceus SL4
+1408272,Pseudomonas aeruginosa LES431
+1410605,Bifidobacterium pseudolongum subsp. globosum DSM 20092
+1410916,Salmonella enterica subsp. enterica serovar Cerro str. CFSAN001588
+1415629,Pseudomonas aeruginosa MTB-1
+1415630,Pseudomonas sp. TKP
+1415774,Clostridium botulinum 202F
+1415775,Clostridium baratii str. Sullivan
+1416032,Shigella phage 75/02 Stx
+1416334,Lactobacillus phage phi jlb1
+1416915,Aeromonas hydrophila NJ-35
+1420012,Klebsiella pneumoniae 30660/NJST258_1
+1420013,Klebsiella pneumoniae 30684/NJST258_2
+1421338,Enterobacter asburiae L1
+1423720,Companilactobacillus alimentarius DSM 20249
+1423721,Amylolactobacillus amylophilus DSM 20533 = JCM 1125
+1423723,Lactobacillus amylovorus DSM 20531
+1423778,Paucilactobacillus oligofermentans DSM 15707 = LMG 22743
+1423822,Loigolactobacillus coryniformis subsp. torquens DSM 20004 = KCTC 3535
+1423833,Latilactobacillus sakei subsp. sakei DSM 20017 = JCM 1157
+1426844,Helicobacter pylori NY40
+1427342,Pseudomonas aeruginosa SCV20265
+1427374,Streptococcus agalactiae CNCTC 10/84
+1432658,Enterococcus phage IME-EF4
+1433126,Mucinivorans hirudinis
+1433513,Streptococcus gwangjuense
+1434214,Mannheimia varigena USDA-ARS-USMARC-1312
+1434215,Mannheimia varigena USDA-ARS-USMARC-1388
+1435046,Shigella flexneri G1663
+1435056,Trueperella pyogenes TP8
+1435461,Escherichia coli KLY
+1436299,Pasteurella multocida subsp. multocida str. HN07
+1437447,Streptococcus mutans UA159-FR
+1440052,Escherichia albertii KF1
+1441627,Escherichia coli str. Sanji
+1443113,Yersinia enterocolitica LC20
+1446494,Lacticaseibacillus paracasei N1115
+1446701,Escherichia coli O169:H41
+1446707,Escherichia coli O25:NM
+1446746,Escherichia coli O6:H16
+1447716,Bifidobacterium catenulatum PV20-2
+1448139,Aeromonas hydrophila YL17
+1448140,Pseudomonas aeruginosa YL84
+1449437,Pseudomonas phage vB_PaeP_Tr60_Ab31
+1451189,Corynebacterium falsenii DSM 44353
+1453496,Hafnia alvei FB1
+1453988,Campylobacter lari RM16712
+1454382,Bacillus cereus D17
+1454583,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1783
+1454584,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1727
+1454585,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1735
+1454587,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1676
+1454589,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1728
+1454590,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1175
+1454593,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1765
+1454594,Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1766
+1454598,Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1901
+1454599,Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1900
+1454601,Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1913
+1454604,Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1904
+1454608,Salmonella enterica subsp. enterica serovar Montevideo str. CDC 08-1942
+1454612,Salmonella enterica subsp. enterica serovar Montevideo str. CDC 2013K-0218
+1454614,Salmonella enterica subsp. enterica serovar Newport str. CDC 2012K-0938
+1454616,Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1923
+1454617,Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1924
+1454619,Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1926
+1454621,Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1928
+1454625,Salmonella enterica subsp. enterica serovar Newport str. CDC 2009K-1331
+1454629,Salmonella enterica subsp. enterica serovar Newport str. CDC 2012K-0663
+1454638,Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1898
+1454643,Salmonella enterica subsp. enterica serovar Typhimurium str. CDC 2011K-1702
+1454647,Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1810
+1458253,Streptococcus oralis subsp. dentisani
+1458465,Megasphaera elsdenii 14-14
+1462996,Paenibacillus yonginensis
+1463164,Klebsiella quasipneumoniae subsp. similipneumoniae
+1463165,Klebsiella quasipneumoniae
+1469502,Burkholderiales bacterium GJ-E10
+1471400,Corynebacterium pelargi
+1471761,Novibacillus thermophilus
+1476889,Lactococcus phage P162
+1484157,Pantoea sp. PSNIH2
+1484158,Pantoea sp. PSNIH1
+1487956,Corynebacterium sp. ATCC 6931
+1495285,Escherichia phage vB_EcoM_112
+1498171,Staphylococcus phage SA97
+1498227,Shigella phage POCJ13
+1499973,Escherichia marmotae
+1500687,Pseudomonas sp. St29
+1502658,Escherichia coli O2:H6
+1505026,Staphylococcus phage 3MRA
+1505027,Staphylococcus phage 23MRA
+1507806,Campylobacter fetus subsp. testudinum
+1511761,Leuconostoc suionicum
+1513890,Pseudomonas chlororaphis subsp. piscium
+1519999,Staphylococcus phage phiBU01
+1524881,Enterobacteria phage Sf101
+1528099,Lawsonella clevelandensis
+1531429,Berryella intestinalis
+1532555,Brevundimonas sp. DS20
+1536604,Leuconostoc phage Ln-8
+1536605,Leuconostoc phage Ln-9
+1539298,Treponema sp. OMZ 838
+1551641,Shigella phage pSs-1
+1552735,Lactobacillus phage Ldl1
+1560339,Enterobacter sp. E20
+1562970,Fermentimonas caenicola
+1563222,Citrobacter pasteurii
+1564681,Carnobacterium sp. CP1
+1565991,Bacillus sp. X1(2014)
+1567022,Shigella phage SfMu
+1567486,Escherichia phage P88
+1572656,Ruminococcaceae bacterium CPB6
+1577791,Candidatus Methanoplasma termitum
+1582259,Gudongella oleilytica
+1590550,Escherichia phage RCS47
+1595998,Human smacovirus 1
+1617964,Shigella flexneri 4c
+1618207,Psychromicrobium lacuslunae
+1619313,Duffyella gerundensis
+1628086,Pseudomonas kribbensis
+1628753,Bacillus sp. LM 4-2
+1631871,Weissella jogaejeotgali
+1636204,Staphylococcus phage B166
+1636603,Acinetobacter sp. ACNIH1
+1636606,Aeromonas sp. ASNIH1
+1636607,Aeromonas sp. ASNIH2
+1636608,Aeromonas sp. ASNIH3
+1636609,Aeromonas sp. ASNIH4
+1636610,Pseudomonas sp. PONIH3
+1639133,Citrobacter portucalensis
+1642646,Petrimonas mucosa
+1642647,Proteiniphilum saccharofermentans
+1647374,Klebsiella phage K5
+1647400,Enterococcus phage Ec-ZZ2
+1647455,Salmonella phage SEN1
+1647458,Salmonella phage SEN22
+1647465,Salmonella phage SEN4
+1647466,Salmonella phage SEN5
+1649239,Escherichia phage pro147
+1649240,Escherichia phage pro483
+1654388,Staphylococcus schweitzeri
+1654928,Klebsiella phage PKO111
+1655644,Parabacteroides phage YZ-2015a
+1655645,Parabacteroides phage YZ-2015b
+1658672,Ottowia sp. oral taxon 894
+1660368,Escherichia phage PA28
+1667168,Dermabacter jinjuensis
+1667327,Klebsiella quasipneumoniae subsp. quasipneumoniae
+1671396,Klebsiella phage vB_KpnP_KpV289
+1675036,Megasphaera hexanoica
+1677857,Acetivibrio saccincola
+1679444,Akkermansia glycaniphila
+1679721,Herbinix luporum
+1692238,Enterobacter sp. FY-07
+1696072,Microbacterium sp. CGR1
+1697053,Thiopseudomonas alkaliphila
+1698360,Klebsiella phage JD18
+1701804,Klebsiella phage vB_Kp1
+1701813,Streptococcus phage phiARI0131-1
+1701814,Streptococcus phage phiARI0131-2
+1701826,Streptococcus phage phiARI0462
+1701842,Streptococcus phage phiARI0923
+1702043,Kocuria sp. BT304
+1702170,Citrobacter sp. FDAARGOS_156
+1702221,Faecalibaculum rodentium
+1702287,Negativicoccus massiliensis
+1703250,Citrobacter sp. CRE-46
+1705617,Capnocytophaga sp. oral taxon 323
+1712675,Turicibacter sp. H121
+1715860,Staphylococcus sp. AntiMn-1
+1717717,Labilibaculum antarcticum
+1723645,Rhodococcus sp. 008
+1725232,Candidatus Desulfovibrio trichonymphae
+1727163,Algoriphagus sanaruensis
+1727214,Rhodococcus sp. H-CA8f
+1734925,Cutibacterium acnes subsp. acnes
+1737425,Corynebacterium provencense
+1739608,Lactobacillus phage CL2
+1739609,Lactobacillus phage iA2
+1739610,Lactobacillus phage iLp84
+1742359,Cytobacillus dafuensis
+1747289,Enterococcus phage vB_EfaS_IME196
+1747326,Enterococcus phage vB_EfaS_IME197
+1749259,Marinobacter sp. LQ44
+1750719,Kurthia sp. 11kri321
+1754217,Pseudomonas phage phi3
+1756993,Phytobacter sp. SCO41
+1758179,Aeromonas sp. ASNIH5
+1758189,Acinetobacter sp. ACNIH2
+1758194,Achromobacter sp. AONIH1
+1758196,Serratia sp. SSNIH1
+1759399,Streptococcus sp. A12
+1777052,Pseudomonas phage JBD44
+1777054,Pseudomonas phage JBD93
+1777064,Pseudomonas phage YMC11/07/P54_PAE_BP
+1778540,Dickeya fangzhongdai
+1785128,Acinetobacter lactucae
+1785995,Gemella sp. oral taxon 928
+1785996,Leptotrichia sp. oral taxon 847
+1788301,Pseudomonas versuta
+1790137,Wenyingzhuangia fucanilytica
+1793721,Stenotrophomonas sp. KCTC 12332
+1795053,Microbacterium sp. PAMC 28756
+1796613,Bacteroides caecimuris
+1796616,Blautia pseudococcoides
+1796646,Muribaculum intestinale
+1805478,Olsenella timonensis
+1805714,Christensenella massiliensis
+1806506,Bacillus sp. BS34A
+1809055,Acinetobacter sp. DUT-2
+1809410,Herminiimonas arsenitoxidans
+1810705,Salmonella phage 118970_sal4
+1811193,Streptococcus pantholopis
+1812934,Enterobacter hormaechei subsp. hoffmannii
+1812935,Enterobacter roggenkampii
+1813771,Salmonella phage 118970_sal3
+1813821,Shigella sp. PAMC 28760
+1814128,Streptococcus halotolerans
+1814960,Streptococcus phage 9874
+1815511,Lactobacillus phage PLE2
+1815968,Salmonella phage SJ46
+1820160,Human feces pecovirus
+1827300,Pseudomonas sp. MYb193
+1827305,Stenotrophomonas sp. MYb57
+1827481,Enterobacter sp. ODB01
+1833852,Desulforamulus ferrireducens
+1834196,Lachnoclostridium sp. YL32
+1834198,Hungateiclostridiaceae bacterium KB18
+1834205,Burkholderiales bacterium YL45
+1834207,Erysipelotrichaceae bacterium I46
+1837130,Bacillus sp. FJAT-14266
+1838137,Propionibacterium phage PFR1
+1838138,Propionibacterium phage PFR2
+1839799,Streptococcus sp. FDAARGOS_192
+1839800,Yersinia sp. FDAARGOS_228
+1841863,Gordonibacter massiliensis (ex Traore et al. 2017)
+1847728,Companilactobacillus allii
+1848517,Enterobacter sp. LU1
+1848580,Hafnia sp. CBA7124
+1848755,Actinobacteria bacterium IMCC26077
+1848904,Capnocytophaga stomatis
+1849031,Exiguobacterium sp. U13-1
+1851395,Actinomyces sp. Chiba101
+1852373,Murdochiella vaginalis
+1852374,Ezakiella massiliensis
+1852377,Actinomyces pacaensis
+1852625,Klebsiella phage vB_KpnM_KpV477
+1855823,Macrococcoides canis
+1856406,Bacillus sp. H15-1
+1858609,Acidovorax sp. T1
+1863009,Shigella phage SHFML-26
+1868135,Enterobacter sp. HK169
+1869170,Rhizobium sp. S41
+1870984,Anaerococcus mediterraneensis
+1871021,Lachnoclostridium phocaeense
+1871025,Ndongobacter massiliensis
+1871034,Vaginimicrobium propionicum
+1871678,Lactococcus phage 28201
+1871681,Lactococcus phage 50101
+1871687,Lactococcus phage 63301
+1871690,Lactococcus phage 98201
+1879049,Acinetobacter sp. WCHAc010034
+1884263,Selenomonas sp. oral taxon 920
+1886807,Pseudomonas sp. TMW 2.1634
+1888195,Streptococcus himalayensis
+1889813,Anaerolineaceae bacterium oral taxon 439
+1892404,Bacillus sp. ABP14
+1898207,Clostridiales bacterium
+1902136,Streptococcus sp. NPS 308
+1903686,Jeotgalibaca sp. PTS2502
+1904944,Stenotrophomonas sp. LM091
+1905288,Klebsiella sp. LTGPAF-6F
+1905730,Pectobacterium parmentieri
+1907578,Lelliottia jeotgali
+1911586,Marinilactibacillus sp. 15R
+1912856,Peptoniphilus sp. ING2-D1G
+1912897,Blautia argi
+1914541,Rhizobium sp. Y9
+1914861,Enterobacter sp. SA187
+1915310,Enterobacter cloacae complex sp. ECNIH7
+1916917,Microbacterium sp. 1.5R
+1917441,Streptococcus ruminantium
+1920107,Aeromonas sp. ASNIH7
+1920109,Enterobacteriaceae bacterium ENNIH2
+1920110,Citrobacter sp. CFNIH10
+1920114,Leclercia sp. LSNIH1
+1920116,Leclercia sp. LSNIH3
+1920128,Enterobacteriaceae bacterium ENNIH3
+1930071,Methylomusa anaerophila
+1934254,Klebsiella sp. M5al
+1938334,Microbacterium sp. TPU 3598
+1944646,Phoenicibacter congonensis
+1954351,Escherichia coli APEC O2-211
+1960083,Actinomyces gaoshouyii
+1965365,Escherichia phage CF2
+1972431,Phytobacter ursingii
+1972757,Klebsiella sp. PO552
+1977566,Enterobacter sp. Crenshaw
+1978467,Pseudomonas sp. AK6U
+1981499,Escherichia phage ECD7
+1986146,Desulfobulbus oralis
+2003188,Parolsenella catena
+2004644,Acinetobacter sp. WCHA45
+2011081,Primolicivirus Pf1
+2013114,Citrobacter sp. 86
+2015795,Klebsiella sp. LY
+2018067,Pseudomonas sp. FDAARGOS_380
+2019568,Citrobacter sp. 92
+2021971,Streptococcus respiraculi
+2022321,Prunus geminivirus A
+2024273,Salmonella enterica subsp. enterica serovar Sundsvall
+2024304,Shigella phage Sf14
+2024305,Shigella phage Sf17
+2024308,Shigella phage Sf21
+2024316,Shigella phage Sf13
+2025492,Staphylococcus sp. M0911
+2025876,Parabacteroides sp. CT06
+2026186,Bacillus paranthracis
+2026188,Bacillus tropicus
+2026240,Klebsiella quasivariicola
+2026248,Bacillus sp. 1s-1
+2026657,Leuconostoc mesenteroides subsp. jonggajibkimchii
+2027290,Providencia huaxiensis
+2027919,Enterobacter cloacae complex sp.
+2030922,Enterococcus phage phiSHEF2
+2030923,Enterococcus phage phiSHEF4
+2030924,Enterococcus phage phiSHEF5
+2033033,Aeromonas sp. CU5
+2033438,Serratia sp. MYb239
+2040624,Gemella sp. ND 6198
+2041044,Eubacterium maltosivorans
+2044467,Escherichia sp. E4742
+2045208,Massilia violaceinigra
+2048654,Solibacillus sp. R5-41
+2048775,Escherichia coli O114:H49
+2048776,Escherichia coli O128:H27
+2048777,Escherichia coli O15:H11
+2048778,Escherichia coli O178:H19
+2048779,Escherichia coli O182:H21
+2048780,Escherichia coli O25:H16
+2048781,Escherichia coli O27:H7
+2049486,Shigella flexneri 7b
+2049589,Pseudomonas sp. HLS-6
+2051905,Enterobacter sp. CRENT-193
+2052938,Enterobacteriaceae bacterium S05
+2053832,Bacillus sp. HBCD-sjtu
+2057741,Bradyrhizobium sp. SK17
+2057791,Enterococcus sp. CR-Ec1
+2060307,Enterococcus sp. FDAARGOS_375
+2060312,Altererythrobacter sp. B11
+2066049,Citrobacter freundii complex sp. CFNIH2
+2066051,Enterobacteriaceae bacterium ENNIH1
+2067572,Pseudomonas sp. NC02
+2069256,Pseudomonas sp. XWY-1
+2070197,Enterococcus phage PMBT2
+2070348,Microbacterium sp. SGAir0570
+2070463,Lysinibacillus sp. SGAir0095
+2072503,Actinoalloteichus sp. AHMU CJ021
+2073078,Pseudomonas sp. DTU12.3
+2077136,Enterobacter cloacae complex sp. FDA-CDC-AR_0164
+2077137,Enterobacter cloacae complex sp. FDA-CDC-AR_0132
+2077147,Citrobacter freundii complex sp. CFNIH3
+2077148,Citrobacter freundii complex sp. CFNIH4
+2077149,Citrobacter freundii complex sp. CFNIH9
+2079290,Pseudomonas phage PollyC
+2079596,Acinetobacter sp. SWBY1
+2081702,Actinomyces sp. oral taxon 897
+2081703,Peptostreptococcaceae bacterium oral taxon 929
+2082188,Sphingobium sp. YG1
+2083054,Pseudomonas sp. LG1D9
+2083055,Pseudomonas sp. LH1G9
+2086584,Massilistercora timonensis
+2086585,Maliibacterium massiliense
+2093856,Butyricimonas faecalis
+2093857,Dysosmobacter welbionis
+2094242,Victivallales bacterium CCUG 44730
+2099788,Lactobacillus sp. CBA3605
+2099789,Lactobacillus sp. CBA3606
+2100422,Idiomarina sp. OT37-5b
+2107999,Lactobacillus paragasseri
+2108362,Lactobacillus sp. D1501
+2109685,Olsenella sp. GAM18
+2109687,Oscillibacter sp. PEA192
+2109688,Clostridiales bacterium CCNA10
+2109690,Lachnospiraceae bacterium Choco86
+2109691,Lachnospiraceae bacterium GAM79
+2109692,Erysipelotrichaceae bacterium GAM147
+2109913,Melaminivora suipulveris
+2126982,Escherichia coli O18:H1
+2138084,Lactobacillus sp. Koumiss
+2144175,Megasphaera stantonii
+2153354,Klebsiella huaxiensis
+2153385,Lelliottia sp. WB101
+2161821,Dialister massiliensis
+2169540,Lysinibacillus sp. 2017
+2169583,Pseudomonas sp. SXM-1
+2169934,Human associated huchismacovirus 1
+2173034,Petrocella atlantisensis
+2175688,Enterococcus phage vB_EfaS_AL2
+2211108,Sulfuricystis multivorans
+2259623,Oenococcus sp. UCMA 16435
+2259647,Raoultella sp. X13
+2267618,Klebsiella sp. P1CD1
+2268024,Ephemeroptericola cinctiostellae
+2282124,Stenotrophomonas sp. ASS1
+2282309,Leclercia sp. W17
+2282310,Leclercia sp. W6
+2303750,Stenotrophomonas sp. G4
+2319843,Hymenobacter oligotrophus
+2320270,Pseudomonas sp. DG56-2
+2320868,Clostridium manihotivorum
+2339259,Yersinia hibernica
+2364787,Alistipes megaguti
+2382163,Streptococcus koreensis
+2419774,Protaetiibacter intestinalis
+2420300,Acinetobacter sp. FDAARGOS_493
+2420301,Acinetobacter sp. FDAARGOS_494
+2420305,Acinetobacter sp. FDAARGOS_560
+2420306,Serratia sp. FDAARGOS_506
+2420308,Streptococcus sp. FDAARGOS_520
+2420309,Streptococcus sp. FDAARGOS_521
+2420310,Streptococcus sp. FDAARGOS_522
+2420313,Enterococcus sp. FDAARGOS_553
+2447890,Serratia sp. 1D1416
+2448483,Serratia sp. 3ACOL1
+2479367,Buttiauxella sp. 3AFRM03
+2479546,Vibrio zhugei
+2479767,Blautia sp. SC05B48
+2480625,Plantibacter sp. PA-3-X8
+2480908,[Mycobacterium] chelonae subsp. gwanakae
+2482769,Serratia sp. P2ACOL2
+2485839,Serratia sp. LS-1
+2485926,Atopobiaceae bacterium
+2487118,Intestinibaculum porci
+2487150,Phytobacter sp. MRY16-398
+2488567,Klebsiella sp. FDAARGOS_511
+2489595,Glaciecola amylolytica
+2490633,Streptococcus periodonticum
+2490851,Pantoea sp. CCBC3-3-1
+2490853,Rhodococcus sp. NJ-530
+2492396,Kosakonia sp. CCTCC M2018092
+2494234,Sutterella megalosphaeroides
+2494701,Enterobacter chengduensis
+2496265,Jeotgalibaca ciconiae
+2496551,Shigella phage pSf-1
+2496837,Brevibacillus marinus
+2496847,Sulfuricystis thermophila
+2497860,Cellulosilyticum sp. WCF-2
+2497863,Janthinobacterium sp. 17J80-10
+2498113,Limnobaculum zhutongyuii
+2498848,Pseudomonas sp. MPC6
+2500132,Enterobacter sp. N18-03635
+2500152,Salmonella enterica subsp. salamae serovar 42:r:-
+2500542,Salmonella sp. SSDFZ54
+2500543,Salmonella sp. SSDFZ69
+2500548,Acetobacter oryzoeni
+2507160,Aminipila luticellarii
+2507161,Acidilutibacter cellobiosedens
+2507162,Caproiciproducens sp. NJN-50
+2511819,Salmonella enterica subsp. enterica serovar Brancaster
+2528203,Bacteroides sp. A1C1
+2529121,Citrobacter sp. ABFQG
+2546350,Citrobacter arsenatis
+2557994,Sphingobacterium sp. CZ-2
+2562449,Citrobacter tructae
+2562451,Vagococcus xieshaowenii
+2564099,Ruminococcus bovis
+2564310,Salmonella enterica subsp. enterica serovar Carmel
+2564436,Salmonella enterica subsp. enterica serovar Florida
+2565914,Enterobacter sp. 18A13
+2566012,Citrobacter sp. CF971
+2572087,Candidatus Saccharibacteria bacterium oral taxon 955
+2572088,Candidatus Nanosynbacter featherlites
+2572089,TM7 phylum sp. oral taxon 952
+2572577,Salinimonas iocasae
+2575375,Pantoea sp. SO10
+2575923,Brevibacterium sp. CS2
+2576376,Streptococcus sp. 1643
+2576406,Citrobacter sp. TBCP-5362
+2576606,Duncaniella sp. B8
+2577863,"Salmonella enterica subsp. salamae serovar 56:z10:e,n,x"
+2579247,Salmonella enterica subsp. enterica serovar Rough O:-:-
+2582419,Dialister hominis
+2582830,Enterococcus sp. M190262
+2583577,Raoultella sp. NCTC 9189
+2583584,Streptococcus sp. NCTC 11567
+2583585,Streptococcus sp. NCTC 10228
+2583588,"Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-"
+2584943,Longibaculum sp. KGMB06250
+2584944,Sutterella faecalis
+2585117,Alistipes onderdonkii subsp. vulgaris
+2585118,Alistipes communis
+2585119,Alistipes dispar
+2590777,Rhizobium sp. NIBRBAC000502774
+2592065,Escherichia coli O1:H42
+2592351,Carnobacterium sp. PL12RED10
+2592352,Carnobacterium sp. PL26RED25
+2592354,Carnobacterium sp. PL24RED07
+2592355,Carnobacterium sp. PL17GRE32
+2594269,Chryseobacterium sp. SNU WT5
+2594473,Sphingomonas xanthus
+2594789,Lachnospiraceae bacterium KGMB03038
+2601898,Noviherbaspirillum sp. UKPF54
+2603296,Enterococcus sp. DA9
+2605620,Escherichia coli O80:H26
+861208,Agrobacterium tumefaciens
+46170,Staphylococcus aureus
+147467,Mammaliicoccus sciuri
+1570328,Mycolicibacterium neoaurum
+1653479,Rhodococcus fascians
+1546149,Diaphorobacter nitroreducens
+1226298,Lacticaseibacillus paracasei subsp. paracasei ATCC 25302 = DSM 5622 = JCM 8130
+1156433,Streptococcus ilei
+219334,Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393
+2546450,Stenotrophomonas indicatrix
+1476577,Candidatus Nanosynbacter lyticus
+671223,Cutibacterium modestum
+2585755,Alistipes onderdonkii subsp. vulgaris
+2585756,Alistipes communis
+570374,Corynebacterium sanguinis
+741091,Rahnella aceris
+2213057,Stutzerimonas frequens
+866775,Aerococcus sp. Group 1
