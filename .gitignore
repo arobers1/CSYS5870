@@ -1,2 +1,4 @@
 *.tab
 *.tar.gz
+/.conda
+/__*
